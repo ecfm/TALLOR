@@ -70,6 +70,7 @@ class IEFramework:
             train_step = train_step + 50
             # train_f1, train_p, train_r = self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
             self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
+            torch.cuda.empty_cache()
 
             if i==epoch-1: ## Save all results
                 torch.save({'state_dict': model.state_dict()}, save_ckpt)
