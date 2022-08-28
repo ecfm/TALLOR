@@ -14,9 +14,9 @@ import time
 def main():
     parser = argparse.ArgumentParser()
     ## File parameters
-    parser.add_argument('--filename', default='serving.json',
+    parser.add_argument('--filename', default='200_sent.json',
             help='train file')
-    parser.add_argument('--dataset', default='bc5cdr_serving',
+    parser.add_argument('--dataset', default='amazon',
             help='dataset')
     parser.add_argument('--root', default='./data',
             help='dataset root')

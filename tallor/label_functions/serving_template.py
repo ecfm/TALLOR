@@ -5,10 +5,13 @@ class TALLOR_SurfaceForm(SurfaceForm):
 
         #dictionary = dict()
         ## using bc5cdr's rules as examples, you can write your own rules here.
-        dictionary = {'proteinuria': 'Disease', 'esrd': 'Disease', 'thrombosis': 'Disease', 'tremor': 'Disease', 'hepatotoxicity': 'Disease',
-                    'hypertensive': 'Disease', 'thrombotic microangiopathy': 'Disease', 'thrombocytopenia': 'Disease', 'akathisia':'Disease','confusion':'Disease',
-                    'nicotine': 'Chemical', 'morphine': 'Chemical', 'haloperidol': 'Chemical', 'warfarin': 'Chemical', 'clonidine': 'Chemical',
-                    'creatinine': 'Chemical', 'sirolimus': 'Chemical', 'tacrolimus': 'Chemical','isoproterenol': 'Chemical', 'cyclophosphamide': 'Chemical'}
+        # dictionary = {'proteinuria': 'Disease', 'esrd': 'Disease', 'thrombosis': 'Disease', 'tremor': 'Disease', 'hepatotoxicity': 'Disease',
+        #             'hypertensive': 'Disease', 'thrombotic microangiopathy': 'Disease', 'thrombocytopenia': 'Disease', 'akathisia':'Disease','confusion':'Disease',
+        #             'nicotine': 'Chemical', 'morphine': 'Chemical', 'haloperidol': 'Chemical', 'warfarin': 'Chemical', 'clonidine': 'Chemical',
+        #             'creatinine': 'Chemical', 'sirolimus': 'Chemical', 'tacrolimus': 'Chemical','isoproterenol': 'Chemical', 'cyclophosphamide': 'Chemical'}
+        dictionary = {'son': 'User', 'daughter': 'User', 'grandson': 'User', 'granddaughter': 'User', 
+        'mom': 'User', 'dad': 'User', 'gamer':'User', 'child' : 'User', 'kid' : 'User',
+        'game': 'Purpose', 'school work': 'Purpose', 'homework': 'Purpose'}
         negative_set = set()
 
         ## Update labels from rules:

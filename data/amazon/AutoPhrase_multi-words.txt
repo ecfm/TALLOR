@@ -1,0 +1,4011 @@
+0.9913321673	sd card
+0.9893971739	macbook air
+0.9885911060	microsoft office
+0.9855358918	social media
+0.9853466546	google docs
+0.9818739855	word processing
+0.9802512833	caps lock
+0.9800512730	web browsing
+0.9799958350	flash drive
+0.9792611661	microsoft word
+0.9792153255	solid state drive
+0.9790018754	video editing
+0.9784993897	macbook pro
+0.9773659701	learning curve
+0.9762422793	graphics card
+0.9734498262	chrome os
+0.9720276317	anti virus
+0.9720084189	usb 3.0
+0.9713690436	dvd player
+0.9704805314	middle school
+0.9704512766	android apps
+0.9701932454	stopped working
+0.9700956404	customer support
+0.9691704128	hard drive
+0.9662296185	track pad
+0.9658055346	photo editing
+0.9655676758	error message
+0.9641428653	num lock
+0.9630783323	office 365
+0.9614393386	hard disk
+0.9613692382	christmas gift
+0.9605840284	gtx 960m
+0.9605132747	chrome book
+0.9596788031	tech savvy
+0.9592517197	remote desktop
+0.9591515692	quality control
+0.9590194227	wi fi
+0.9587645015	years ago
+0.9584743666	touch pad
+0.9576719724	high school
+0.9561473967	viewing angle
+0.9542922661	tabs open
+0.9530391370	customer service
+0.9519777188	usb ports
+0.9497887719	viewing angles
+0.9495316928	headphone jack
+0.9484779795	hard drives
+0.9478285833	mouse pad
+0.9476687014	core i3
+0.9475092582	google drive
+0.9468391473	tech support
+0.9466291428	micro sd card
+0.9461837590	dvd drive
+0.9450460346	disk drive
+0.9448466884	video card
+0.9439117152	high end
+0.9433067515	reasonable price
+0.9429499672	return policy
+0.9420614221	number pad
+0.9410496482	product link linked
+0.9408675860	touch screen
+0.9407239011	user friendly
+0.9403764396	chrome books
+0.9402892036	sd card slot
+0.9398871459	dual core
+0.9386053332	birthday gift
+0.9380354886	power cord
+0.9376442172	core i5
+0.9372688667	usb 2.0
+0.9369361552	light weight
+0.9366003248	cloud based
+0.9363412917	google chrome
+0.9357332910	disk space
+0.9356724893	dead pixels
+0.9355084826	ips display
+0.9353255144	asus f555la ab31
+0.9343332205	web surfing
+0.9334498322	mid range
+0.9331654280	fully charged
+0.9324501510	fallout 4
+0.9316901776	youtube videos
+0.9312601019	_ _ _ _ _ _
+0.9299165429	watching videos
+0.9293502187	star rating
+0.9292450609	pleasantly surprised
+0.9287136552	4gb ram
+0.9280787790	medium settings
+0.9277975747	hp stream
+0.9271399131	disc drive
+0.9257576061	black friday
+0.9254253427	wifi card
+0.9246305439	google apps
+0.9245952277	external hard drive
+0.9244671425	super slow
+0.9240173128	quad core
+0.9228533708	super fast
+0.9225347657	build quality
+0.9224172162	backlit keyboard
+0.9218043899	multiple times
+0.9210760193	main reason
+0.9210404310	google account
+0.9209992975	micro sd
+0.9207856485	christmas present
+0.9202273298	windows based
+0.9191547294	watch movies
+0.9191468357	google play
+0.9189497877	extra ram
+0.9182997808	internet connection
+0.9179648108	6th gen
+0.9166646748	months ago
+0.9163859360	8gb ram
+0.9159789452	left click
+0.9157340737	multiple tabs
+0.9154369136	fan noise
+0.9148921896	storage space
+0.9145079579	higher end
+0.9142239634	feels cheap
+0.9140042784	wifi connection
+0.9137343357	wireless mouse
+0.9130465113	1080p screen
+0.9129465336	hdmi port
+0.9125604886	price range
+0.9123997747	delete key
+0.9121149877	chrome browser
+0.9109075588	web pages
+0.9106585109	watching movies
+0.9105633012	warranty expired
+0.9100836243	samsung 850 evo
+0.9098687521	ultra settings
+0.9094408562	windows 7
+0.9084855856	watching netflix
+0.9079385375	perfect size
+0.9078475855	sd slot
+0.9076519838	exceeded my expectations
+0.9073131309	matte screen
+0.9051883421	solid state
+0.9049052714	play games
+0.9045317816	256gb ssd
+0.9040190762	dell support
+0.9038071610	gb ram
+0.9036898658	high resolution
+0.9035544772	ms office
+0.9024816569	google play store
+0.9015192339	pc3 12800
+0.9013745240	negative reviews
+0.9013089462	high settings
+0.9012475411	samsung chromebook
+0.9011403154	space bar
+0.9009685511	taking notes
+0.9006234034	pre installed
+0.8997196636	video streaming
+0.8990566832	key board
+0.8985844777	cheap plastic
+0.8978331355	watch netflix
+0.8977589506	high quality
+0.8974141581	lightning fast
+0.8972050997	black screen
+0.8962221024	dell inspiron
+0.8947885695	hp support
+0.8946511624	ips screen
+0.8944410923	web page
+0.8938407728	long battery life
+0.8937854699	working fine
+0.8937686364	extremely slow
+0.8920263265	hp pavilion
+0.8911987123	internet surfing
+0.8910289843	wireless adapter
+0.8906949990	ref = cm_cr_arp_d_rvw_txt ie = utf8
+0.8882247295	windows 10
+0.8879774308	processing power
+0.8871549540	deal breaker
+0.8833281507	windows updates
+0.8821301905	video games
+0.8820079881	low cost
+0.8811277036	inch screen
+0.8810362347	league of legends
+0.8809120867	witcher 3
+0.8805897438	feels sturdy
+0.8803485003	i5 processor
+0.8773621696	screen brightness
+0.8770994207	low price
+0.8756781425	blazing fast
+0.8740108792	android app
+0.8728338537	worth every penny
+0.8705230933	hd screen
+0.8700527577	internet browsing
+0.8698735464	checking email
+0.8694956015	battery power
+0.8669585212	piece of crap
+0.8664812938	battery life
+0.8663662179	memory card
+0.8635529958	days ago
+0.8635151714	working properly
+0.8632308047	works perfectly
+0.8625842190	battery lasts
+0.8621644999	ssd drive
+0.8618159290	check email
+0.8602680668	takes forever
+0.8600041854	amazon prime
+0.8595165190	worked fine
+0.8589195624	card slot
+0.8564228134	cloud print
+0.8539458361	runs fast
+0.8534090475	waste your money
+0.8523392673	piece of junk
+0.8519568720	watching youtube
+0.8516365502	weeks ago
+0.8515231231	absolutely love
+0.8504959393	nice size
+0.8497576187	called hp
+0.8491369836	win 10
+0.8469298001	gb ssd
+0.8464421376	windows update
+0.8464328387	4gb of ram
+0.8427983850	software issue
+0.8415745364	price point
+0.8404995022	works fine
+0.8396343980	playing games
+0.8377543530	power button
+0.8375501306	pretty decent
+0.8344595391	windows 8
+0.8326645068	_ _ _
+0.8326071210	extremely fast
+0.8319083605	screen resolution
+0.8311635238	super light
+0.8305859048	f555la ab31
+0.8295143040	acer chromebook 14
+0.8246192584	highly recommend
+0.8173558393	toshiba chromebook 2
+0.8146812172	google cloud
+0.8145235725	sound quality
+0.8097447436	gaming laptops
+0.8085081473	daughter loves
+0.8074252738	waste of money
+0.8026551855	feels nice
+0.7986931858	bang for the buck
+0.7965887573	larger screen
+0.7954811944	_ _ _ _ _
+0.7938798260	big deal
+0.7924429213	college student
+0.7890564289	wireless card
+0.7875413372	play store
+0.7860284714	large screen
+0.7841414779	drive space
+0.7810155333	gigs of ram
+0.7640715566	acer chromebook
+0.7627607954	keyboard feels
+0.7521833649	8gb of ram
+0.7520375677	ram stick
+0.7471513553	gb of ram
+0.7287183006	asus f555la
+0.7286647324	surf the web
+0.7254004467	browse the web
+0.7185677216	surfing the web
+0.7171429783	pretty fast
+0.7155060721	worked great
+0.7128797888	external mouse
+0.7046000869	writing this review
+0.7033288098	youtube video
+0.7019530643	asus chromebook
+0.6978933449	samsung 850
+0.6920746611	works great
+0.6858580919	super easy
+0.6765714823	previous laptop
+0.6708459746	browse the internet
+0.6574056395	screen size
+0.6568253242	great battery life
+0.6564505453	gaming laptop
+0.6468569180	size and weight
+0.6444505959	great price
+0.6426918414	quality product
+0.6383737691	small and light
+0.6338851137	lap top
+0.6333351928	class =
+0.6288036360	external drive
+0.6235646407	worst laptop
+0.6211404480	browsing the web
+0.6202243703	operating system
+0.6139351137	href =
+0.6042355967	version of windows
+0.6036026923	easy to carry
+0.6028990687	worth the money
+0.5936363956	great product
+0.5866257690	ref =
+0.5844399661	gta v
+0.5796361128	older laptop
+0.5768492260	shut down
+0.5739628739	update this review
+0.5700645630	windows machine
+0.5691453310	a 4
+0.5630548948	love my chromebook
+0.5628439082	brand new
+0.5598929706	great buy
+0.5591731638	yr old
+0.5564845342	a link normal
+0.5554340677	recommend this product
+0.5554182167	lit keyboard
+0.5531252912	surfing the internet
+0.5527419766	32 gb
+0.5470470997	screen is bright
+0.5464209087	nice keyboard
+0.5441445256	browsing the internet
+0.5396112964	fast boot
+0.5385792047	toshiba chromebook
+0.5360781162	great reviews
+0.5279455345	worth the price
+0.5277585281	usb c
+0.5239820258	feels great
+0.5236746265	happy with my purchase
+0.5229022046	battery life is amazing
+0.5225643640	great screen
+0.5204820095	hp laptop
+0.5170724427	easy to upgrade
+0.5095605974	shuts down
+0.5091072061	love this chromebook
+0.5046807734	15.6 inch
+0.5039486854	reason i bought
+0.5029702118	working great
+0.5018765525	love this laptop
+0.4982394137	couple of months
+0.4976614215	boot up
+0.4973258255	portable laptop
+0.4973162728	stay away
+0.4957124562	happy with this purchase
+0.4951011362	love this thing
+0.4912530558	decent laptop
+0.4910646866	asus product
+0.4882168060	shutting down
+0.4876772019	turn off
+0.4876370890	great deal
+0.4870192399	needed a laptop
+0.4850254700	500 gb
+0.4813383130	slower than
+0.4800972040	bought 2
+0.4799025652	inch laptop
+0.4781226913	set up
+0.4764104816	faster than
+0.4760158755	great laptop
+0.4757793911	4 gb
+0.4734666540	& nbsp
+0.4716465314	6 months
+0.4709106590	great quality
+0.4624401889	8 gb
+0.4606098732	bought this for my daughter
+0.4594051373	dealing with
+0.4585921367	11.6 inch
+0.4567241850	familiar with
+0.4566966061	lots of
+0.4563204592	five stars
+0.4531416284	great laptop for the price
+0.4529785361	six months
+0.4525016427	full hd
+0.4509638939	lack of
+0.4503210264	$ 300
+0.4498587580	screen is great
+0.4486489488	60 fps
+0.4461748840	5 stars
+0.4448481410	4 stars
+0.4443415260	plugged in
+0.4442830085	prone to
+0.4438923032	shuts off
+0.4430961771	16 gb
+0.4416781249	asus laptop
+0.4387991696	right click
+0.4378037369	windows laptop
+0.4369237308	covered under
+0.4349517879	person who
+0.4336347170	great little laptop
+0.4309558359	run windows
+0.4308247377	two weeks
+0.4296760236	$ 800
+0.4245055270	shut off
+0.4239077468	pretty much
+0.4229220653	couldn't be happier
+0.4214237789	back lit keyboard
+0.4197772158	bottom line
+0.4185809761	kind of
+0.4184664334	bang for
+0.4180155573	buy this laptop
+0.4176840580	she likes
+0.4175748678	850 evo
+0.4172900014	dell laptop
+0.4171907947	great for school
+0.4138162880	9 hours
+0.4138019058	keyboard is great
+0.4135467285	recommend this laptop
+0.4123773808	nice screen
+0.4116235799	long battery
+0.4112916292	majority of
+0.4101108067	laptop speakers
+0.4088082845	depending on
+0.4072056521	cheaper than
+0.4044693083	turned off
+0.4038559782	unable to
+0.4026217640	speakers are
+0.4012224480	rid of
+0.3992956835	months later
+0.3991791475	6 inch
+0.3984851096	ie = utf8
+0.3974503658	laptop for school
+0.3946605651	cheap laptop
+0.3921783282	an external hard drive
+0.3908484515	takes some getting
+0.3900253361	sort of
+0.3895968428	complain about
+0.3877152279	year old son
+0.3850487742	nice laptop
+0.3846709965	start up
+0.3824295200	great purchase
+0.3792209687	2 weeks
+0.3766653252	needed something
+0.3737922993	weeks later
+0.3725059469	no longer
+0.3719990694	laptop for the price
+0.3696643094	piece of
+0.3690523266	keys are
+0.3690347356	$ 200
+0.3673176370	three months
+0.3666431886	keep in mind
+0.3663882061	bother me
+0.3648154555	i've owned
+0.3641434938	i've ever owned
+0.3631067014	told me
+0.3624861390	takes forever to
+0.3623627696	more expensive
+0.3600503268	laptop works
+0.3600108858	longer than
+0.3599128093	ended up
+0.3595269541	years old
+0.3588810202	froze up
+0.3582456617	$ 500
+0.3571487958	light and easy
+0.3569690579	worried about
+0.3566417679	$ 1000
+0.3565169343	refused to
+0.3560145806	ready to go
+0.3550533513	8 months
+0.3548880111	an hour
+0.3543433021	to no avail
+0.3536212924	boots up
+0.3532320629	recommend to anyone
+0.3521722057	worked well
+0.3515635536	excellent laptop
+0.3508987296	throw at it
+0.3491591484	under warranty
+0.3486619132	stopped working after
+0.3481033021	a different brand
+0.3480005069	great for the price
+0.3478982283	12 hours
+0.3474680515	hooked up
+0.3474439502	1 star
+0.3474120751	5 star
+0.3473536453	figure out how to
+0.3473312994	a breeze
+0.3472639297	worry about
+0.3471669464	wanted something
+0.3470889600	happy with this laptop
+0.3458098472	save your
+0.3436591171	days later
+0.3421451349	powerful enough
+0.3412997435	7 months
+0.3410703469	buy another
+0.3409635866	no complaints
+0.3398617894	= utf8
+0.3391664826	two years
+0.3388218759	sending it back
+0.3382992483	goes black
+0.3379200309	be aware
+0.3365209206	telling me
+0.3351044110	a deal breaker
+0.3334144624	6 hours
+0.3324207368	gave me
+0.3317463515	great chromebook
+0.3317226929	takes some getting used to
+0.3316134745	great machine
+0.3314031006	go wrong
+0.3313718210	chromebook 14
+0.3312021969	don't expect
+0.3309886323	20 minutes
+0.3304144624	5 minutes
+0.3299262963	3 months
+0.3298149282	few months
+0.3297225523	forget about
+0.3292341484	10 minutes
+0.3287827607	5 years
+0.3285753430	set it up
+0.3285399526	several times
+0.3283934950	get rid
+0.3268808510	figured out
+0.3258575331	an external
+0.3256553261	supposed to
+0.3250586136	take notes
+0.3248810198	full size
+0.3244181280	locks up
+0.3241327296	nice looking
+0.3235114733	by default
+0.3234091703	aware of
+0.3232752027	fast and easy
+0.3231093577	full hd screen
+0.3229028657	2 years
+0.3222003015	laptop with a
+0.3207439527	3 weeks
+0.3204996930	$ 150
+0.3196222325	coming from
+0.3193970648	works well
+0.3188253430	plugged it in
+0.3187787328	open it up
+0.3183527883	an entire
+0.3178703478	takes about
+0.3173886965	open at once
+0.3156169681	nice to have
+0.3153467909	30 days
+0.3148667247	for 1
+0.3132438648	like a charm
+0.3127678349	a 2
+0.3126093037	10 seconds
+0.3125686148	every penny
+0.3124621436	bought this laptop
+0.3119079524	turn on
+0.3116860757	can't beat
+0.3113575681	great battery
+0.3107592875	screen quality
+0.3103669681	problem is that
+0.3088215217	boot time
+0.3079164101	8 hours
+0.3076428589	other devices
+0.3066593565	well built
+0.3062669073	a data hook =
+0.3056762652	back lit
+0.3053639446	$ 100
+0.3036169681	feel to it
+0.3034362651	a 5
+0.3027831080	turns out
+0.3019421313	sign in
+0.3018942032	my daughter loves
+0.3016912310	reason why
+0.3012532094	plenty of
+0.3007712087	9 months
+0.3002003015	laptop and i
+0.2998253430	buy it again
+0.2982617904	a lot
+0.2966169681	needed it to
+0.2966127736	an sd card
+0.2963589221	laptop but i
+0.2947506949	other reviews
+0.2939321050	don't waste your money
+0.2932291489	my favorite
+0.2917681532	laptop is great
+0.2917012979	school work
+0.2913962963	smaller than
+0.2883623920	other reviewers
+0.2883227105	a ton
+0.2872480231	4 5
+0.2871984188	like a champ
+0.2864207645	enough space
+0.2858589221	laptop and it
+0.2852554816	best buy
+0.2850899229	meets all
+0.2835867755	live in
+0.2834350001	at home
+0.2832534325	2 months
+0.2830581151	thinking about
+0.2830062297	out of the box
+0.2829856406	easy to use
+0.2827371723	prior to
+0.2827096441	appears to be
+0.2824129557	for some reason
+0.2820196936	few weeks
+0.2815516080	1 month
+0.2815430363	if you plan
+0.2810972792	much faster
+0.2806453017	3 stars
+0.2805452467	can handle
+0.2801314026	3 times
+0.2797239426	easy to set up
+0.2795488510	freezing up
+0.2792317893	capable of
+0.2777493901	purchased this laptop
+0.2772592739	held up
+0.2771847811	4 hours
+0.2758062864	* * *
+0.2750208637	thought i would
+0.2743892208	ease of
+0.2738620517	directly from
+0.2726246058	be careful
+0.2719289018	few years
+0.2712554871	bought this chromebook
+0.2704471051	a champ
+0.2688661118	as advertised
+0.2679767793	bought this as a
+0.2675445776	screen quality is
+0.2657756055	3 hours
+0.2654549331	$ 50
+0.2651290083	sound quality is
+0.2650451732	listening to
+0.2646150264	an extra
+0.2642038123	4 months
+0.2636989661	too small
+0.2630981628	freeze up
+0.2627881883	love them
+0.2621153435	5 months
+0.2617806102	connecting to
+0.2617107765	very disappointed
+0.2616990954	to 5
+0.2614990383	supposed to be
+0.2609622650	1 2
+0.2607205721	= = = = = =
+0.2600444631	in the market
+0.2598468309	too big
+0.2592459165	a college student
+0.2589905165	$ 30
+0.2588434319	10 hours
+0.2571242972	impossible to
+0.2571182876	two months
+0.2565750519	love this little
+0.2561814962	meets my
+0.2561258302	battery life is
+0.2560091048	months of use
+0.2551735055	gigs of
+0.2545343724	feels like
+0.2542383356	alot of
+0.2541260855	recommend it to anyone
+0.2532049035	much easier
+0.2530642956	an additional
+0.2526401209	starts up
+0.2516415999	looked at
+0.2506144021	slow down
+0.2501957656	only drawback
+0.2470840240	several months
+0.2469946756	a wireless mouse
+0.2468255341	up and running
+0.2465950075	5 hours
+0.2456873894	machine for the
+0.2456776081	compatible with
+0.2455117461	definitely recommend
+0.2452171376	chromebooks are
+0.2446873894	months and it
+0.2441197753	sounds like
+0.2431877719	before buying
+0.2431268800	compared to
+0.2424119439	still under warranty
+0.2405047353	easy to set
+0.2401672549	turned it on
+0.2397191407	great value
+0.2394294764	few minutes
+0.2389342427	chromebook 2
+0.2388729530	side by side
+0.2386221443	as a student
+0.2383368463	a good laptop
+0.2377488110	at this point
+0.2376551891	pretty well
+0.2372304969	left side
+0.2371207227	product for the
+0.2369428036	connects to
+0.2364180873	based on
+0.2362585736	complaints about
+0.2362469132	needed it for
+0.2358611378	colors are
+0.2351332102	thought it would
+0.2346505811	another 8gb
+0.2345755341	in the cloud
+0.2343355478	give it 5
+0.2337163990	on high settings
+0.2323873438	pop up
+0.2318398074	a hardware
+0.2316530437	at this price point
+0.2314445790	the power button
+0.2311557149	plug it in
+0.2306725239	work properly
+0.2305976274	the track pad
+0.2303783485	in fact
+0.2298351151	thought it would be
+0.2297352670	i guess
+0.2293608516	pretty good
+0.2293368463	to the point
+0.2292908338	very quiet
+0.2283448976	be fixed
+0.2273893282	year old
+0.2273844226	3 4
+0.2273291318	a little bit
+0.2272838670	difficult to
+0.2246952023	easy to
+0.2228987418	an ipad
+0.2222766721	in my opinion
+0.2222516249	to be honest
+0.2217401427	an older
+0.2216255158	continue to
+0.2215156875	figure out
+0.2211212238	no lag
+0.2210148182	sitting on
+0.2197179278	a warranty
+0.2196999862	for 10
+0.2196271607	the power cord
+0.2195487694	i really love
+0.2195319956	add more
+0.2189783481	as expected
+0.2186733334	3 years
+0.2184393328	one screw
+0.2181250874	my husband
+0.2177219475	another asus
+0.2176889289	very satisfied
+0.2175842865	i highly recommend
+0.2171947832	many times
+0.2168572541	definitely worth
+0.2162002020	chrome os is
+0.2156015522	with the product
+0.2153852748	waiting for
+0.2149535977	turn it on
+0.2148493287	old macbook
+0.2147348267	one year warranty
+0.2146164492	screen resolution is
+0.2146150445	my son
+0.2142726734	thank you
+0.2140239208	year old daughter
+0.2139570082	decided to
+0.2138897328	few times
+0.2135560637	i'd recommend
+0.2131520519	works very well
+0.2128506635	# # # # #
+0.2116971556	other chromebooks
+0.2115081388	turned out to
+0.2112798573	lot more
+0.2111801898	i knew
+0.2110135085	purchased this for my
+0.2106288293	on the market
+0.2104255041	on sale
+0.2100659920	planning to
+0.2099866010	at least
+0.2097767645	its purpose
+0.2091580053	a macbook air
+0.2089237304	happier with
+0.2087852303	wouldn't recommend
+0.2085273214	having issues
+0.2074490297	thus far
+0.2073915085	would highly recommend
+0.2066359357	anything else
+0.2063754312	my wife
+0.2063300407	feel of the
+0.2062454462	track pad is
+0.2060432636	which makes
+0.2055358350	turned on
+0.2052085968	does the job
+0.2046876594	can easily
+0.2043937010	few days
+0.2043239867	my sister
+0.2041440219	very durable
+0.2036704113	love my new
+0.2035672738	get it fixed
+0.2035611897	after 2
+0.2033908426	would definitely recommend
+0.2030147372	satisfied with
+0.2028220495	the hdmi port
+0.2024418040	so excited
+0.2023086638	perfect for
+0.2020191304	= = = =
+0.2015840775	the mouse pad
+0.2015130649	stuck with
+0.2012532009	bought this for my
+0.2009353300	i'll update
+0.2008923860	most games
+0.2005904620	the spacebar
+0.2005638638	super easy to
+0.1998671752	two days
+0.1992208331	idea of
+0.1985738056	2 gb
+0.1985366799	stars because
+0.1984951721	screen goes
+0.1981336874	i've read
+0.1980944980	2 hours
+0.1980647711	other computers
+0.1978535508	the solid state
+0.1977922062	send it back
+0.1977798460	less than
+0.1975568497	bunch of
+0.1973141679	and runs
+0.1971324432	makes me
+0.1970435206	# # # #
+0.1970319406	ever owned
+0.1956722324	a youtube video
+0.1950260567	she loves
+0.1949525273	do not buy
+0.1944737744	at this price
+0.1942311241	needed a new
+0.1940275183	my daughter's
+0.1933515522	with the purchase
+0.1933462723	i have owned
+0.1932311292	he loves
+0.1932186972	a & nbsp
+0.1930370589	a lemon
+0.1918754961	ever seen
+0.1917000115	able to run
+0.1914934812	world of
+0.1911598169	most chromebooks
+0.1909068600	with ease
+0.1907184796	right out of the box
+0.1906435011	able to download
+0.1904057165	an apple
+0.1894871084	works great for
+0.1893258682	a bit
+0.1885945817	games like
+0.1885156447	compared to other
+0.1881725482	about 5
+0.1881020946	i ever
+0.1876542852	a big deal
+0.1873276620	would expect
+0.1872190284	for 5
+0.1870040219	enough memory
+0.1868147091	and lightweight
+0.1866313164	bought it for
+0.1863400227	the apps
+0.1856377432	the right size
+0.1844617096	be happier
+0.1843952078	plug in
+0.1834600115	a year ago
+0.1834194491	loves it
+0.1833504758	light and easy to
+0.1831897815	these things
+0.1830312183	is the perfect
+0.1830213623	we bought
+0.1830112769	specs are
+0.1829049408	a power
+0.1825754438	a case
+0.1824743635	one star
+0.1822464249	from amazon
+0.1814678341	bells and
+0.1813882032	with acer
+0.1813025527	buy this again
+0.1812073968	this laptop
+0.1810625028	excited to
+0.1809315361	nice little
+0.1808864055	light weight and
+0.1804295979	have no idea
+0.1799689140	some research
+0.1794768488	the wireless card
+0.1793430291	about 2
+0.1793160519	to asus
+0.1791254462	other laptops
+0.1790553363	for the price
+0.1787036013	good battery life
+0.1785853003	# # # # # #
+0.1783431761	a long
+0.1782565189	in the future
+0.1782097461	my expectations
+0.1781575759	other laptop
+0.1778995711	replacement for my
+0.1775183261	we purchased
+0.1774138033	realize that
+0.1773396493	lot of
+0.1772341220	i would highly recommend
+0.1769720235	plan on
+0.1766283272	a great deal
+0.1762771799	and mouse
+0.1762059995	my eyes
+0.1761239848	worked great for
+0.1757599572	after reading
+0.1756582722	only negative
+0.1756493067	day 1
+0.1753980435	an issue
+0.1751854297	buy a new
+0.1750590158	to 100
+0.1748082722	very comfortable
+0.1747361969	alternative to
+0.1746510818	no problems
+0.1745796090	2 3
+0.1743508994	great little
+0.1740594718	purchase another
+0.1739420958	no matter
+0.1736372098	touch pad is
+0.1733816763	can live
+0.1732396384	noticed that
+0.1731237272	a couple
+0.1729564694	the hard drive
+0.1728283097	connect to
+0.1727711193	the hd
+0.1727710376	after 6
+0.1726094768	not too heavy
+0.1723671392	chose this
+0.1722866881	my games
+0.1717036264	these chromebooks
+0.1714362348	most laptops
+0.1712820106	can run
+0.1710710264	and 2
+0.1708040329	won't turn
+0.1705442151	very limited
+0.1705166056	i'm returning
+0.1703499389	my niece
+0.1703470126	very pleased
+0.1702892900	to ship
+0.1697724914	and clear
+0.1697709718	of course
+0.1695996311	i thought
+0.1692098903	boots in
+0.1688784892	a touch screen
+0.1688127770	about 10
+0.1682014729	too bad
+0.1680309497	so great
+0.1677719506	my purchase
+0.1673108031	the upgrade
+0.1670756335	according to
+0.1670299387	don't mind
+0.1667403839	it stopped working
+0.1663873279	so fast
+0.1662002501	am very happy
+0.1661834356	my primary
+0.1661615390	and netflix
+0.1660467579	i have ever owned
+0.1659316100	an affordable
+0.1659017715	the highest
+0.1657949535	send it in
+0.1656060778	and added
+0.1654503955	the entire
+0.1653771493	= = = = =
+0.1653614710	love it
+0.1646630216	any type
+0.1644844270	about 6 months
+0.1644029447	the touch pad
+0.1641497025	cost me
+0.1641173659	will never buy
+0.1637391581	and start
+0.1636341738	we love
+0.1633020779	an error
+0.1627954384	the only thing
+0.1621043428	my previous
+0.1620927208	about 8
+0.1620371804	which means
+0.1619649860	great laptop for
+0.1616098789	a few months
+0.1611297888	a hard drive
+0.1608515905	only downside
+0.1607704295	thought it was
+0.1604475791	it 5
+0.1601743837	waste your
+0.1600270602	primarily for
+0.1599470959	a bit slow
+0.1596278199	let me
+0.1595907507	it's nice
+0.1595900338	the start
+0.1594942638	at night
+0.1590677271	gets the job done
+0.1589715960	an inexpensive
+0.1588825712	can play
+0.1584554303	* *
+0.1584539946	really great
+0.1580930042	and finally
+0.1579997453	the game
+0.1578119304	decide to
+0.1578111249	the bad
+0.1576051189	on medium
+0.1571280719	about 4
+0.1570238963	no matter how
+0.1570032730	i absolutely love
+0.1567777520	i've seen
+0.1566482346	be replaced
+0.1564025816	very reasonable
+0.1561966905	the default
+0.1558339286	to dell
+0.1552354822	doesn't seem
+0.1545717337	1 year
+0.1542520946	i say
+0.1540706767	for 3
+0.1539812828	for 2
+0.1536423900	the lid
+0.1536137589	back and forth
+0.1534338382	happy with this
+0.1534321805	worked out
+0.1531785148	looks great
+0.1528296261	2 days
+0.1527339532	the battery lasts
+0.1515636202	still running
+0.1515067856	for the money
+0.1513702513	everyday use
+0.1513475858	couple of
+0.1508000331	ready to
+0.1507848760	for $ 200
+0.1506915189	than i expected
+0.1506769874	no idea
+0.1502955738	gift for my
+0.1502268551	this price range
+0.1501054972	to hp
+0.1500726980	fast and easy to
+0.1498959423	value for the money
+0.1497921193	i realized
+0.1497479313	my house
+0.1495237726	number of
+0.1495120258	very impressed
+0.1494148138	first thing
+0.1493949667	and responsive
+0.1489012284	want to spend
+0.1488208921	impressed with
+0.1483326646	the resolution
+0.1482890120	the fastest
+0.1482318976	i love
+0.1478798165	shipping was
+0.1478513663	from home
+0.1478177325	google docs and
+0.1476391985	feels very
+0.1476046255	about 6
+0.1472291403	for a few months
+0.1470980713	for web browsing
+0.1470168086	in bed
+0.1469181228	the battery life
+0.1462061845	their own
+0.1460697058	this is my first chromebook
+0.1458404887	must say
+0.1455091121	working well
+0.1453663718	about 3
+0.1449850055	don't waste your
+0.1448173177	an excellent
+0.1447152181	at times
+0.1444418849	recommend this laptop to
+0.1442355004	highly recommend it
+0.1439989792	i suppose
+0.1439956954	year and a half
+0.1439260091	who wants
+0.1439248021	i figured
+0.1438509221	turns on
+0.1437550191	built in
+0.1436295716	people who
+0.1434824669	still runs
+0.1433902179	just fine
+0.1433763838	it is great
+0.1433740217	my ipad
+0.1429264118	that makes
+0.1427755082	year warranty
+0.1427152365	my desk
+0.1426933253	something else
+0.1426614612	this is a great
+0.1423986861	a great buy
+0.1423482058	a great chromebook
+0.1421046669	great for
+0.1420278136	my problem
+0.1419923405	only complaint
+0.1419048150	compared to my
+0.1418422127	laptop for
+0.1416975791	the 4
+0.1411705372	in terms of
+0.1409393346	bought it for my
+0.1408574525	my mom
+0.1408551918	click on
+0.1407936606	close to
+0.1406462649	but for the price
+0.1405594126	make sure
+0.1405456299	up to date
+0.1405119304	wanting to
+0.1402895513	a gaming laptop
+0.1401689360	to high
+0.1397895513	a great price
+0.1395201351	fast enough for
+0.1394167358	the play store
+0.1394035381	the hdd
+0.1391261678	someone who
+0.1390604378	considering the price
+0.1389060708	* update
+0.1387721639	i open
+0.1386363467	that's it
+0.1386228438	so far
+0.1384935092	in general
+0.1384077057	i had to pay
+0.1383913794	this chromebook
+0.1382521463	be disappointed
+0.1380203565	no delete
+0.1379339286	with windows
+0.1378807803	of windows 10
+0.1376012601	a nightmare
+0.1372468585	glad i
+0.1371770442	have to pay
+0.1369930785	is beautiful
+0.1369217024	has great
+0.1368755217	and portable
+0.1368202048	a terrible
+0.1367236848	web browsing and
+0.1366069577	highly recommend this
+0.1364779063	the cursor
+0.1361167821	the build quality
+0.1356767044	well worth the money
+0.1356516663	laptop i have ever
+0.1355678871	your money
+0.1354221311	perfect for me
+0.1352353765	to day
+0.1350221639	for games
+0.1349540014	easier to
+0.1348752526	and i love
+0.1348453829	my daughter
+0.1346276507	very poor
+0.1346079953	the beginning
+0.1345288675	this thing
+0.1343968182	still working
+0.1342760681	same problem
+0.1341547949	the chrome book
+0.1341455984	very lightweight
+0.1341381283	is light weight
+0.1337150679	hours of
+0.1336613763	very fast
+0.1335649694	very quick
+0.1332507887	a good choice
+0.1332116074	if you're
+0.1331997763	really not
+0.1331783104	for repairs
+0.1331441364	the notebook
+0.1331406706	few hours
+0.1331229273	build quality and
+0.1330366430	type of
+0.1329631850	no issues
+0.1328833560	get rid of
+0.1327579037	perfect for my
+0.1326500256	absolutely no
+0.1324753663	little bit
+0.1321886805	i chose
+0.1321470337	a great machine
+0.1321011678	right away
+0.1317479380	i play
+0.1316715668	i bought
+0.1316196356	of battery life
+0.1312253288	to play games
+0.1311430207	feel like
+0.1307586354	very sturdy
+0.1307566724	the left
+0.1307123513	ship it
+0.1306451728	bought for my
+0.1304650638	graphics are
+0.1304588550	and writing
+0.1303939519	this product
+0.1303692025	my grandson
+0.1303006389	would not recommend
+0.1302653737	the long
+0.1301018445	enjoying it
+0.1299583664	version of
+0.1298765895	to adjust
+0.1297528666	with this chromebook
+0.1297017122	i type
+0.1296428372	and apps
+0.1295345491	the screen
+0.1292522904	same thing
+0.1292342665	for 4
+0.1292238117	i checked
+0.1287016799	i'm glad
+0.1286923825	i run
+0.1286151874	is decent
+0.1282599999	on ultra
+0.1281403246	a movie
+0.1281097417	my mother
+0.1280041783	best chromebook
+0.1279554150	the chrome os
+0.1277408932	nothing else
+0.1276382216	it is easy
+0.1275725858	for streaming
+0.1273034639	a few days
+0.1272170585	over a month
+0.1271297616	downside is
+0.1271233625	it's perfect
+0.1270955102	hard drive is
+0.1270397497	may be
+0.1269067593	i wanted
+0.1266890510	be buying
+0.1266851263	wrong with this
+0.1266456526	last laptop
+0.1265958425	everything else
+0.1265917691	was hoping
+0.1263178041	hard to
+0.1259026252	with the laptop
+0.1258637513	on the phone
+0.1258178041	bought this
+0.1256656521	my fault
+0.1253961300	i'd say
+0.1253571030	has been a great
+0.1249539705	to navigate
+0.1249308143	a few weeks
+0.1249119304	screen went
+0.1248988294	gave it to
+0.1248167350	amount of
+0.1247743893	years ago and
+0.1246951513	my backpack
+0.1246680331	every day
+0.1246582006	some things
+0.1246374780	too heavy
+0.1239255437	build quality is
+0.1238988294	laptop has a
+0.1235206612	as fast
+0.1235198126	i would recommend
+0.1234742709	found a
+0.1233479131	in place
+0.1232020251	and thought
+0.1231533950	does exactly what
+0.1230377541	a result
+0.1229844708	love the
+0.1229487363	rather than
+0.1228358412	a chromebook
+0.1227407668	plan to
+0.1225714383	returning it
+0.1225162366	of the box
+0.1224430955	the keyboard feels
+0.1223865607	a free
+0.1223116995	for this laptop
+0.1222945802	a great laptop
+0.1222410391	the bottom of the screen
+0.1221426424	don't know how
+0.1219469655	my friends
+0.1218638961	my 10
+0.1218056636	to read
+0.1217272852	this machine
+0.1216254715	the acer chromebook
+0.1214396921	this acer chromebook
+0.1213967724	the mousepad
+0.1213026023	is terrible
+0.1212317066	the touch
+0.1211678139	my opinion
+0.1210986205	the basics
+0.1210752251	is adequate
+0.1209888517	the basic
+0.1209257837	the font
+0.1209174454	long time
+0.1207907046	able to play
+0.1207603272	connected to
+0.1207228611	have had no issues
+0.1205749023	as soon as
+0.1204954688	to disable
+0.1204250080	long as you
+0.1202605447	the google play
+0.1199824677	gets the job
+0.1195797059	very quickly
+0.1192925699	the laptop
+0.1192151124	it works perfectly
+0.1192070029	love how
+0.1191702665	this price
+0.1191590496	old son
+0.1191128541	never buy
+0.1188952530	and go
+0.1188902095	it works fine
+0.1188217657	even turn
+0.1184920220	and asus
+0.1184871552	the trackpad
+0.1183242265	exactly what
+0.1181961874	too slow
+0.1180662414	was a gift
+0.1180019087	as a gift
+0.1179229258	they told me
+0.1177837654	the charger
+0.1177730865	it works great
+0.1176660905	would not buy
+0.1176527445	it replaced
+0.1176368678	wrong with
+0.1176330343	the pad
+0.1175875996	just the right size
+0.1174439914	the hp stream
+0.1174073873	each time
+0.1173601011	and for the price
+0.1171961317	like this laptop
+0.1170299174	to power
+0.1169257136	the touchpad
+0.1165944886	and such
+0.1164485850	fast enough
+0.1163211233	more memory
+0.1163111927	a touchscreen
+0.1162518986	very responsive
+0.1162229567	the base
+0.1160786203	happy with it
+0.1160747026	better than
+0.1160505424	very nice
+0.1157673164	my old laptop
+0.1157042335	a few hours
+0.1156703072	a chrome book
+0.1155872286	a premium
+0.1155680874	the motherboard
+0.1155578165	just what i needed
+0.1155418767	a fan
+0.1155320041	was expecting
+0.1152609185	too many
+0.1152350455	to set
+0.1152141489	experience with
+0.1149773247	the graphics card
+0.1146985484	very slow
+0.1146762388	i bought this laptop
+0.1146617934	12 year old
+0.1145823084	the job done
+0.1144870538	an amazing
+0.1144450600	go for
+0.1142531243	months old
+0.1142091500	i was hoping
+0.1140620023	might be
+0.1138779498	that the battery
+0.1138778594	i personally
+0.1138702048	the smaller
+0.1138391091	the battery
+0.1138004518	i contacted
+0.1136974605	waste of
+0.1136910232	the screen quality
+0.1134144325	mouse pad is
+0.1132816537	this chrome book
+0.1131340384	works fine for
+0.1131259004	a great product
+0.1130473972	my main
+0.1130113226	the job
+0.1129557938	to print
+0.1129408376	of research
+0.1128432346	i've had this laptop
+0.1127999229	to mention
+0.1127893673	to factory
+0.1126589026	my personal
+0.1121148186	i am
+0.1121124169	for a few days
+0.1119629203	very low
+0.1119135809	it a lot
+0.1118772977	to windows 10
+0.1118272114	this price point
+0.1117758997	for a chromebook
+0.1117231425	great product for
+0.1115858031	to upload
+0.1115479657	is absolutely
+0.1114803438	don't buy
+0.1114071706	it's a bit
+0.1113572655	what i expected
+0.1112853765	to another
+0.1111998809	quite a bit
+0.1111706445	it worked great
+0.1110677496	it's pretty
+0.1110491079	my screen
+0.1109902048	the bloatware
+0.1109504320	a mac
+0.1107493209	this model
+0.1106905972	same issue
+0.1106689321	with your
+0.1106266044	in mind
+0.1105603894	was told
+0.1104170717	good buy
+0.1104009016	to expect
+0.1103183212	even though
+0.1102374978	a chance
+0.1102194677	to resolve
+0.1100499229	to learn
+0.1098683789	the android
+0.1097243975	the price point
+0.1095182634	a minute
+0.1095145507	have problems
+0.1095107957	give a
+0.1095043627	shut it
+0.1094044812	this is an excellent
+0.1090540664	the backlit keyboard
+0.1089770921	to upgrade
+0.1086902934	another hp
+0.1084898940	the boot
+0.1084861088	easy to get
+0.1084671326	fast and
+0.1084159050	a really nice
+0.1082513001	the keyboard
+0.1082179516	not buy
+0.1080549378	of power
+0.1076707453	worth it
+0.1075802475	is the keyboard
+0.1075511440	wanted to
+0.1075462700	a minor
+0.1075173332	as described
+0.1074903041	this toshiba
+0.1073875300	upgrade to
+0.1072868715	the average
+0.1072719873	an asus
+0.1069569202	and set
+0.1069277334	this to replace
+0.1068558235	the big
+0.1066462700	to date
+0.1064959437	couldn't find
+0.1064077025	than expected
+0.1063471088	i was expecting
+0.1062866159	to toshiba
+0.1062260091	can tell
+0.1060111374	was perfect
+0.1059606851	i'm happy
+0.1058517501	very annoying
+0.1058203491	not a fan
+0.1057787642	use a mouse
+0.1057767785	the sound quality
+0.1056410987	try and
+0.1056164118	laptop for you
+0.1055403450	product again
+0.1055072602	really happy
+0.1054735547	love that it
+0.1054341588	the house
+0.1053798525	works great and
+0.1053253554	the storage
+0.1053065754	for a college
+0.1052993312	the replacement
+0.1052479252	is simply
+0.1051599703	ability to
+0.1051135203	your google
+0.1050060215	the chrome browser
+0.1049875638	for hours
+0.1048144370	my business
+0.1046938342	my only complaint
+0.1045947031	all in all
+0.1044471635	in this price range
+0.1044061958	value for the price
+0.1044039779	the toshiba chromebook
+0.1043144474	and speed
+0.1042618539	fps on
+0.1042552285	for school
+0.1042203625	is a fantastic
+0.1042037718	been working
+0.1041763169	what you pay
+0.1041464006	i purchased this laptop
+0.1041281817	little machine
+0.1040593424	don't let
+0.1040108793	at the end
+0.1040071918	happy with the
+0.1039380623	of space
+0.1039370398	worth every
+0.1038789721	it never
+0.1038646820	have to worry
+0.1038420918	rest of
+0.1038126098	battery lasts a
+0.1037374780	do homework
+0.1036405573	with my purchase
+0.1036375289	the perfect size
+0.1036192086	a very nice
+0.1036091289	perfect for what
+0.1035472942	a common
+0.1034076865	in order
+0.1032455847	for writing
+0.1031928457	return it
+0.1031422692	satisfied with this
+0.1030790374	a backlit keyboard
+0.1030273950	work fine
+0.1029748414	a wonderful
+0.1029659979	i highly
+0.1029093424	anyone who
+0.1028189777	to perform
+0.1026497545	a hassle
+0.1025703231	my phone
+0.1025132393	is incredible
+0.1024873279	good battery
+0.1024598516	pleased with this
+0.1023978834	connected to the
+0.1022290014	wait for
+0.1019812884	i've found
+0.1019499174	the microsoft
+0.1019292770	find myself
+0.1019285999	yet but
+0.1018365202	the money
+0.1018189777	to bring
+0.1017171711	only thing
+0.1016334684	loved it
+0.1015795901	very light
+0.1014770613	an ssd
+0.1014004879	laptop for my
+0.1013811133	is my first chromebook
+0.1013302475	but it works
+0.1011743613	a couple of months
+0.1011285423	one month
+0.1010861088	keyboard is very
+0.1010774624	came to
+0.1008326141	it 5 stars
+0.1008267501	any problems
+0.1007819843	to break
+0.1006439305	an internet
+0.1006201056	connect to the
+0.1006194421	size of the
+0.1005272785	this hp
+0.1002395292	for a student
+0.1001871202	many people
+0.1001791302	now on
+0.1000950600	that's a
+0.0999378239	the 4gb
+0.0998996191	for this price
+0.0998717402	i go
+0.0997965480	that the laptop
+0.0997071893	and the screen
+0.0995822317	the manufacturer
+0.0995499737	for a gaming
+0.0994986690	must be
+0.0994588550	the features
+0.0994437467	those who
+0.0993796033	a larger
+0.0993764101	it's great
+0.0993434884	in my backpack
+0.0992969503	the option
+0.0988220487	my last laptop
+0.0988211719	the future
+0.0986192086	it for school
+0.0985926228	screen is
+0.0985393967	not a big
+0.0985261790	access to
+0.0984632147	that this laptop
+0.0983476530	the lcd
+0.0983061265	the office
+0.0982087326	either way
+0.0981965480	to the laptop
+0.0979472028	and the keyboard
+0.0977656407	won't turn on
+0.0977194599	the experience
+0.0976999371	the latest
+0.0976368876	other computer
+0.0976132885	using this laptop
+0.0976004857	it charges
+0.0975932996	a cheap laptop
+0.0975779406	old hp
+0.0975370052	really nice
+0.0975266919	will not buy
+0.0974866108	purchasing this
+0.0973542137	such as
+0.0973279406	no reason
+0.0971585888	i looked
+0.0970805768	good choice
+0.0970550680	for everyday
+0.0970036395	a higher
+0.0968617951	one thing
+0.0968218512	what i paid
+0.0967587910	a birthday
+0.0967371723	my acer
+0.0966568715	the larger
+0.0966164118	problems with this
+0.0964604571	only problem
+0.0963576295	a laptop
+0.0963397222	when i travel
+0.0963297434	with microsoft
+0.0962914095	only issue
+0.0961928457	makes it
+0.0961821523	a message
+0.0961684323	and easy
+0.0960813761	a gift
+0.0959028666	it froze
+0.0957965480	but this laptop
+0.0957726446	heavy use
+0.0955480878	to test
+0.0954963536	issues with
+0.0954961636	restart it
+0.0953609173	the chromebook
+0.0953326646	the item
+0.0953159979	the connection
+0.0952101236	the price
+0.0951472028	and the battery
+0.0950536658	an acer
+0.0950265141	your own
+0.0949726723	the internal
+0.0949687401	to get it fixed
+0.0949438102	due to
+0.0948030035	it went
+0.0945815111	no problem
+0.0945812585	to edit
+0.0943909618	to reboot
+0.0942891538	use google
+0.0941562092	had this laptop
+0.0940171630	should be
+0.0938871201	and cheap
+0.0938267786	am happy
+0.0938198995	for christmas
+0.0937781942	and chrome
+0.0937665482	to do homework
+0.0936922919	returned it
+0.0934680553	live with
+0.0934637788	for my daughter
+0.0934285837	a pain
+0.0932637230	this item
+0.0932281858	i set
+0.0931665321	only have
+0.0931629134	is completely
+0.0931092880	to operate
+0.0930654429	the included
+0.0930532826	it completely
+0.0930457787	would recommend
+0.0929318460	it is perfect
+0.0928060986	happy with my
+0.0928029406	well worth
+0.0928024575	other games
+0.0927634919	just received
+0.0927084024	the only reason
+0.0926504320	a month
+0.0926199103	haven't had any
+0.0925172975	at school
+0.0925084221	the number
+0.0924801122	pleased with
+0.0924297276	she uses
+0.0923792928	my lap
+0.0923336103	that being said
+0.0923029991	it's super
+0.0923010268	and it runs
+0.0922598516	gave me a
+0.0922559167	on facebook
+0.0921177253	good machine
+0.0921122306	lightweight and
+0.0918938890	to restart
+0.0917323782	problem with it
+0.0916412952	i've ever used
+0.0916402213	recommend this to
+0.0915758656	a backup
+0.0914307909	laptop for the
+0.0913820104	easy to use and
+0.0913473666	the free
+0.0911684638	i was wrong
+0.0910676934	and the price
+0.0910235565	a bunch
+0.0909490540	my kid
+0.0909315215	buy again
+0.0908948414	and restart
+0.0908752353	bought this for
+0.0908625300	turned out
+0.0908188102	trying to
+0.0908095758	this is the worst
+0.0907722846	good deal
+0.0906882016	much better
+0.0905035689	more ram
+0.0904854035	and she loves
+0.0904350767	to anyone looking
+0.0903937602	i was told
+0.0903605506	this for my daughter
+0.0902979657	a beautiful
+0.0902445381	be a problem
+0.0902210484	the hinges
+0.0901717339	the speakers
+0.0901582923	and microsoft
+0.0901366348	is great
+0.0901247896	7 year old
+0.0901026418	getting used to
+0.0899953392	is an excellent
+0.0898675683	i expect
+0.0898405842	is super
+0.0896667350	unless you
+0.0896620220	and browsing
+0.0895075236	is nice and
+0.0894874737	for a great
+0.0894398074	the audio
+0.0893999828	would buy again
+0.0893900886	this little chromebook
+0.0892063755	it's fast
+0.0892045448	at the same time
+0.0891860689	a few minutes
+0.0891603799	my finger
+0.0890853377	tried everything
+0.0890516592	was wrong
+0.0890456835	the keys
+0.0889044933	using google
+0.0887178216	as far as
+0.0886835547	for business
+0.0885746690	the display
+0.0885512425	this is the perfect
+0.0884955847	to note
+0.0884664470	in the past
+0.0884060148	any games
+0.0883988019	of how
+0.0883615661	i hope
+0.0883613909	sure why
+0.0883377114	too much
+0.0883158570	at the time
+0.0880869767	my older
+0.0880636530	it for gaming
+0.0880166764	paid for
+0.0879940143	the cover
+0.0879860778	the intel
+0.0879154030	has become
+0.0879026978	mainly for
+0.0878952250	this doesn't
+0.0878408570	the processor is
+0.0875654429	to stream
+0.0873232808	to turn
+0.0873222200	to remove
+0.0873087408	do not recommend
+0.0872225042	for about a week
+0.0871797153	bit more
+0.0870365533	liked the
+0.0869913447	a great
+0.0868627353	recommend this laptop for
+0.0868486830	on a budget
+0.0868463820	middle of
+0.0867655040	is a big
+0.0866672076	is awful
+0.0865186509	the colors
+0.0865141979	slow and
+0.0864672674	of junk
+0.0863504320	a replacement
+0.0861102819	well made
+0.0860974576	compared to the
+0.0860618917	is how
+0.0859738070	in class
+0.0859236034	i received
+0.0858752353	laptop that is
+0.0857490548	league of
+0.0857295649	so far so good
+0.0855707237	on the laptop
+0.0855553983	impressed with the
+0.0855075236	the problem is
+0.0854302701	to replace
+0.0852951503	buy this
+0.0852670660	always been
+0.0852342350	i replaced
+0.0852116919	had to return
+0.0852047799	i ordered
+0.0851857241	similar to
+0.0851782656	laptop to do
+0.0851263256	buying this
+0.0851097451	to freeze
+0.0850468970	is supposed
+0.0850436972	the cons
+0.0849632147	with the screen
+0.0849546004	problem with the
+0.0849229258	any sort of
+0.0848662099	for its price
+0.0848455041	the same issue
+0.0848253554	and amazon
+0.0848190754	been a great
+0.0847745232	given it
+0.0847383395	so i decided
+0.0846580647	same price
+0.0845057938	a total
+0.0845003695	the box
+0.0843425556	school work and
+0.0843161416	works well for
+0.0842099552	for watching
+0.0841632147	is a chromebook
+0.0840802380	you can
+0.0840282465	to contact
+0.0839327504	a friend
+0.0838463949	you can easily
+0.0837520085	coming from a
+0.0837323782	games on it
+0.0836864969	you shouldn't
+0.0834735547	recommend it for
+0.0834632147	but the screen
+0.0834549581	i felt
+0.0834387581	with windows 10
+0.0834122514	to class
+0.0833917348	only con
+0.0833875300	fix it
+0.0833695518	the fan
+0.0833139917	half of
+0.0832035543	first computer
+0.0831913816	i've tried
+0.0830519456	little chromebook
+0.0830453461	a solid
+0.0828410800	i would definitely recommend
+0.0828118700	of purchase
+0.0827720614	i don't mind
+0.0827552285	i purchased
+0.0827007805	a few years
+0.0826551086	a printer
+0.0826146195	went back
+0.0826139513	any issues
+0.0825830189	the occasional
+0.0825307678	the power
+0.0825294020	bought this laptop for
+0.0825003945	love this computer
+0.0824859391	more than
+0.0824466639	problems with it
+0.0824216499	my wireless
+0.0824157215	exceeded my
+0.0824154030	its own
+0.0823643453	of garbage
+0.0822422974	they sent
+0.0821750990	the macbook
+0.0821724649	what i wanted
+0.0821715057	i prefer
+0.0821388148	about that
+0.0819854594	to run
+0.0819307909	access to the
+0.0819064678	and then some
+0.0818296543	had issues
+0.0818285837	a single
+0.0818020938	the internet
+0.0817469142	with this machine
+0.0817359391	there are
+0.0816843700	i am very happy
+0.0816133205	travel with
+0.0815969427	with this laptop
+0.0815871401	on this laptop
+0.0815495691	to carry around
+0.0814812776	as long as
+0.0814685689	very basic
+0.0813961749	in case
+0.0813925349	of crap
+0.0812587357	keyboard is
+0.0811462700	the buttons
+0.0810280539	and they are
+0.0810170038	on the internet
+0.0809206867	only reason
+0.0808302432	a few times
+0.0807129781	good size
+0.0806996985	easy to set up and
+0.0806593851	laptop that
+0.0805997060	forever to
+0.0804860855	to carry
+0.0804088517	and easily
+0.0803760829	have owned
+0.0803728586	feels like a
+0.0803333970	replacing the
+0.0801462700	it broke
+0.0799632147	to the internet
+0.0799535381	a samsung
+0.0799472912	i've used
+0.0798748279	has been
+0.0798541813	inside the
+0.0798414031	the dvd
+0.0796939181	the net
+0.0796845630	since i bought
+0.0796600489	the volume
+0.0796154429	for surfing
+0.0796113601	a problem
+0.0795168612	for browsing the internet
+0.0794479057	but also
+0.0793263664	will run
+0.0792921640	you expect
+0.0792745401	didn't know
+0.0792708070	is the worst
+0.0792147172	of microsoft
+0.0791893650	be able to
+0.0791333037	likes it
+0.0791269125	one for myself
+0.0791249085	the wifi
+0.0790865158	the ease
+0.0790747031	had to pay
+0.0790658570	i like the
+0.0790465572	this review
+0.0790157370	can be
+0.0789295448	as good as
+0.0788613769	i love this laptop
+0.0788273477	the company
+0.0787950001	a 1tb
+0.0787882885	got this laptop
+0.0787358374	they said
+0.0787252349	more storage
+0.0787246780	a nice
+0.0786791302	are so
+0.0786750278	for a long
+0.0786017063	note that
+0.0784146324	this brand
+0.0782604011	how fast
+0.0782111045	anyone looking for
+0.0782056957	the rest
+0.0782007811	for more than
+0.0781274624	uses it
+0.0780637724	you have to
+0.0780619842	it performs
+0.0780245401	most people
+0.0780082169	a lot of
+0.0779382085	uses this
+0.0779339605	especially for the price
+0.0778647799	a week
+0.0778424520	my mac
+0.0778378061	be fine
+0.0777663313	had to send
+0.0776729048	in the middle
+0.0776365158	the ability
+0.0776269125	find a better
+0.0775813761	i plugged
+0.0775075236	to update the
+0.0774938839	looking for a laptop
+0.0774758610	and a half
+0.0773157524	my life
+0.0772574322	with an ssd
+0.0772206789	a dvd
+0.0772059801	for a couple
+0.0771940365	the same price
+0.0771462700	the cable
+0.0770510319	the white
+0.0770389888	is very easy
+0.0770249645	for the most part
+0.0770208070	i would not recommend
+0.0770035170	my chromebook
+0.0770028021	lack of a
+0.0769204734	on the keyboard
+0.0769076889	is plenty
+0.0769027315	turn it
+0.0768823833	see how
+0.0767805799	great value for
+0.0767474184	game on
+0.0767376591	had any issues
+0.0767258903	can have
+0.0766602759	in seconds
+0.0765569501	next time
+0.0765068296	very simple
+0.0765048390	my kids
+0.0764826985	the seller
+0.0764307909	issues with the
+0.0762813029	buying a
+0.0762333404	for students
+0.0762299832	it ran
+0.0761869728	it turns
+0.0761307938	a bigger
+0.0760708070	this as a gift
+0.0760658570	the computer is
+0.0760490833	hoping to
+0.0760084128	the biggest
+0.0759876591	i'm very happy
+0.0759009255	upgraded to
+0.0758663693	allows me to
+0.0758541813	removed the
+0.0758484150	have no complaints
+0.0758192205	seemed like
+0.0757520751	of this laptop
+0.0757325236	i like it
+0.0757039536	a college
+0.0756711949	a new laptop
+0.0755990834	little laptop
+0.0755855796	and it works
+0.0755425227	some issues
+0.0755225041	way too
+0.0755007117	has worked
+0.0753643135	i had bought
+0.0753425325	the toshiba
+0.0753408570	to purchase a
+0.0753349880	is a great
+0.0753117734	it boots
+0.0752639866	my new chromebook
+0.0751701062	it's light
+0.0751653176	the purpose
+0.0750115990	love it and
+0.0750115990	great for the
+0.0749401630	from dell
+0.0748752353	great computer for
+0.0748702048	the previous
+0.0747892394	started to
+0.0747641242	ram and a
+0.0747367729	was fine
+0.0747305574	to play
+0.0747222686	the desktop
+0.0746268482	will be
+0.0746203334	months now and
+0.0745671545	bought it to
+0.0744912366	for a week
+0.0743856998	about a week
+0.0743809345	and the battery life
+0.0742641242	school and it
+0.0742593232	months now
+0.0742104450	had no issues
+0.0740658570	this was a
+0.0740651793	is a solid
+0.0740650446	to browse the internet
+0.0740132356	for the price point
+0.0739658570	and it still
+0.0739374818	after purchase
+0.0739307909	problems with the
+0.0738641128	the games i
+0.0738219842	it handles
+0.0737172906	is well worth
+0.0737100115	more money
+0.0737030026	she loves it
+0.0736075605	willing to
+0.0735845053	to beat
+0.0735678195	there's no
+0.0735605903	a piece of junk
+0.0734990661	i hate
+0.0733798105	the mouse
+0.0733675926	on the left
+0.0733249828	had no
+0.0733086969	and watch
+0.0733009899	version with
+0.0733003945	screen is very
+0.0732646711	the only downside
+0.0732632186	you can't
+0.0732268575	it's like
+0.0731651911	you'll be
+0.0731403125	this for school
+0.0730992384	so i thought
+0.0730784128	i removed
+0.0730355399	make sure you
+0.0730338795	found this
+0.0730107818	still works
+0.0729890571	the initial
+0.0729778951	of the screen
+0.0729658570	and the computer
+0.0729658570	and that is
+0.0729527522	my macbook
+0.0729132494	come back
+0.0728752353	set up and
+0.0726457986	what i needed
+0.0725690156	i am happy
+0.0725671545	laptop that i
+0.0725623919	when i purchased
+0.0725428552	instead of
+0.0725419020	recommend it to
+0.0724800361	for my son
+0.0723927801	all the way
+0.0723302380	would be
+0.0723180201	everything works
+0.0722678216	when it came
+0.0722652190	another chromebook
+0.0722515526	this is perfect
+0.0721060316	seems to be
+0.0720926885	gift for
+0.0720871401	of the laptop
+0.0720800957	without being
+0.0720658570	a computer that
+0.0720658570	is that the
+0.0720658570	is that it
+0.0720604857	the background
+0.0720178216	there was no
+0.0719855784	i have no complaints
+0.0719842693	had any problems
+0.0719081747	to wait
+0.0718857503	computer itself
+0.0718503220	for no reason
+0.0717468826	for about a month
+0.0717325236	at a time
+0.0716859071	can buy
+0.0716325236	and has a
+0.0715740340	it needs
+0.0714397674	had no problems
+0.0714345724	the sound
+0.0714296704	a small
+0.0713804196	you get what you pay for
+0.0712740245	to music
+0.0712678216	as much as
+0.0712668062	on a laptop
+0.0712541813	comfortable to
+0.0712212114	if i were
+0.0711527754	great for what
+0.0711383166	i suggest
+0.0710905872	i would highly
+0.0710658570	used it for
+0.0710658570	had it for
+0.0710658570	a way to
+0.0710658570	to have a
+0.0710635915	i've been
+0.0710348632	don't know what
+0.0710017884	on this thing
+0.0709658570	the computer was
+0.0709174071	first one
+0.0708770305	the large
+0.0708020938	it works
+0.0707956326	bought this computer
+0.0707708552	able to
+0.0707325236	i went to
+0.0707292483	they were
+0.0706325236	this was the
+0.0706096633	computer for the price
+0.0705937904	are pretty
+0.0704784401	the middle
+0.0704490448	on the screen
+0.0703195090	i probably
+0.0703158570	all of my
+0.0702730547	have had this laptop
+0.0702451327	this is a nice
+0.0702375546	i'll be
+0.0702211719	i live
+0.0701262641	to surf the web
+0.0700945716	with no problems
+0.0700490833	4gb of
+0.0699961636	deal with
+0.0699658570	the computer to
+0.0699204734	for a laptop
+0.0699027597	to download
+0.0698666944	of the reviews
+0.0698623778	one more
+0.0698443280	i bought this
+0.0697486509	the 2nd
+0.0697415081	a link
+0.0697325236	i like that
+0.0697325236	i use this
+0.0697325236	all the time
+0.0697313087	use an external
+0.0696695722	for my wife
+0.0696450363	really like
+0.0696215418	value for
+0.0694721481	time on
+0.0693608368	the things i
+0.0693538293	i gave
+0.0693056019	the shipping
+0.0692712545	surf the web and
+0.0692607935	the fact that
+0.0692586473	it still works
+0.0692575236	the size is
+0.0691801408	my first chromebook
+0.0691161103	it's a great laptop
+0.0690658570	to make it
+0.0689658570	the look and
+0.0689450759	the only issue
+0.0689223695	a good buy
+0.0688524731	chance to
+0.0687450795	a cd
+0.0687325236	to find a
+0.0687325236	give it a
+0.0687325236	but that is
+0.0687325236	has a very
+0.0687318460	it is super
+0.0686786389	you pay
+0.0686766868	he loves it
+0.0686622133	does exactly
+0.0686325236	and i will
+0.0686325236	i use the
+0.0685938890	the world
+0.0685882885	it is extremely
+0.0684761784	found that
+0.0684549900	this device
+0.0684483960	for my mom
+0.0684204734	is a bit
+0.0683507117	very solid
+0.0683184753	is fantastic
+0.0683117433	issues with it
+0.0682786427	to add
+0.0681843946	to delete
+0.0681406955	there is no
+0.0680740309	a smaller
+0.0680688890	the celeron
+0.0680658570	take it to
+0.0680365533	sent it
+0.0680203781	it is a great
+0.0680106224	as long
+0.0679778288	getting this
+0.0679674478	it has not
+0.0679658570	and all the
+0.0679658570	the computer for
+0.0679658570	the computer and
+0.0679386055	on amazon
+0.0679373904	of the keyboard
+0.0679238164	has a nice
+0.0679224149	the same thing
+0.0678767166	the built
+0.0678723221	use this laptop
+0.0678264157	giving it
+0.0678212700	it fits
+0.0677462748	i will never buy
+0.0677094467	i liked it
+0.0676524400	how many
+0.0676325236	and it won't
+0.0676031784	and most
+0.0675356500	the idea
+0.0674973869	laptop is
+0.0674909720	the end
+0.0674712114	put it in
+0.0673647958	when i bought
+0.0673486458	with this product
+0.0673408570	with all the
+0.0673306584	gb of
+0.0673158570	there was a
+0.0672678216	wish it had
+0.0672307387	as a college
+0.0671923957	if you're looking
+0.0671844905	the samsung
+0.0671795047	my email
+0.0671343232	linux on
+0.0671273477	the monitor
+0.0670711688	the cpu
+0.0670683527	when i received
+0.0670072660	quite well
+0.0669882284	a good size
+0.0669658570	for work and
+0.0669581747	to figure
+0.0667530441	i love this chromebook
+0.0667073681	opened it
+0.0666723909	really fast
+0.0664906649	for example
+0.0664408570	i do have
+0.0664408570	i just got
+0.0664153176	the gpu
+0.0664018246	i bought this chromebook
+0.0663936832	for the most
+0.0663936832	but for the
+0.0663825462	just use
+0.0663373405	i had to return
+0.0662678216	has not been
+0.0662678216	like i said
+0.0661224604	the i3
+0.0660732435	sent me
+0.0660667601	for browsing the
+0.0659928557	now i have
+0.0659825236	on and off
+0.0659658570	i used it
+0.0659658570	on it and
+0.0659658570	it had a
+0.0659658570	it to work
+0.0659430785	for general
+0.0659171630	i've been using
+0.0659012858	feel like i
+0.0658693943	a budget
+0.0658465227	first day
+0.0657666792	browsing and
+0.0656852102	open up
+0.0656427408	is very slow
+0.0656311737	a similar
+0.0655286389	very happy
+0.0655080061	will update
+0.0655030989	a 1080p
+0.0654748681	was purchased
+0.0654484407	along with
+0.0654408570	but it doesn't
+0.0654232657	tell you
+0.0653936832	not have a
+0.0653936832	i want it
+0.0653158570	to work with
+0.0653158570	i still have
+0.0652688890	the nvidia
+0.0652265152	a mouse
+0.0651954594	it crashes
+0.0651439171	is perfect
+0.0650875458	and of course
+0.0650787065	touchpad is
+0.0650697944	my review
+0.0650247351	given the
+0.0649825236	but it's not
+0.0649825236	for the first
+0.0648624232	total of
+0.0648320106	some getting used
+0.0647325236	i use a
+0.0646588242	other people
+0.0646147751	it almost
+0.0645117800	with no issues
+0.0644721289	it lasts
+0.0643666792	years and
+0.0643355137	dropped it
+0.0643158570	is good for
+0.0643019802	the picture
+0.0643005615	buy a
+0.0642401104	the hardware
+0.0642158570	the way it
+0.0642156975	to press
+0.0641974568	for a refund
+0.0641949399	it's lightweight
+0.0641462700	the process
+0.0641460996	sent it back
+0.0641395891	very easy
+0.0640990288	if you
+0.0640165081	the bios
+0.0639789297	first chromebook
+0.0639658570	it as a
+0.0639658570	it to a
+0.0639658570	to have it
+0.0639417601	the one i
+0.0639417601	is not the
+0.0638943618	in love
+0.0638744277	is useless
+0.0638740309	a company
+0.0638264886	to send
+0.0638051356	a half
+0.0637484323	a quality
+0.0637325236	in the first
+0.0635910090	not allow
+0.0635542192	without any
+0.0635343232	video or
+0.0634833112	for what i needed
+0.0634304118	front of
+0.0634153176	it repaired
+0.0633545649	as fast as
+0.0633158374	every time
+0.0632793995	the web
+0.0632496500	arrived on
+0.0632083000	the brightness
+0.0632068639	a few
+0.0631405046	should not
+0.0630850095	good for the price
+0.0629825236	more of a
+0.0629737041	i would buy
+0.0629582322	there were
+0.0629417601	for about a
+0.0629242743	this little laptop
+0.0629050673	it runs
+0.0628170172	money on
+0.0627878520	to her
+0.0627836346	right now
+0.0627484323	this works
+0.0627375546	wouldn't be
+0.0627325236	this as a
+0.0627059061	speed is
+0.0626249236	is a nice
+0.0626139534	here is
+0.0626084268	it to anyone
+0.0625875147	crisp and
+0.0625699595	very good laptop
+0.0625461674	ram and
+0.0625096858	so no
+0.0624685145	once the
+0.0624586358	i have bought
+0.0624408570	it's a good
+0.0623158570	need it for
+0.0623134877	needed a
+0.0623092317	days after
+0.0622974943	is an amazing
+0.0622548837	next day
+0.0621939181	the actual
+0.0621846376	for my kids
+0.0621023295	gives me
+0.0620895210	works like a
+0.0620817131	this purchase
+0.0620690843	i first got
+0.0620662486	good thing
+0.0620284322	a refund
+0.0619907266	the original
+0.0619825236	that is not
+0.0619719891	after a couple
+0.0619417601	it for work
+0.0619374828	is always
+0.0618866766	an hp
+0.0618690118	some people
+0.0618490615	tell me
+0.0618350801	a waste of money
+0.0618305312	not had any
+0.0617812839	i have purchased
+0.0617541813	leave it
+0.0617486509	the text
+0.0617263182	you don't want
+0.0617041610	after a month
+0.0616923936	a usb
+0.0616787928	a screw
+0.0616338212	laptop is very
+0.0616151553	dell has
+0.0615252183	who just
+0.0614119332	part is
+0.0613408570	it because it
+0.0613390576	in college
+0.0613300123	the fans
+0.0613092483	second one
+0.0612908122	a huge
+0.0612595722	a little slow
+0.0611855049	many other
+0.0611692806	from hp
+0.0611527754	quality of the
+0.0610998279	i've had
+0.0610111236	size and
+0.0610109553	computer just
+0.0609874828	this should
+0.0609658570	with it and
+0.0609582736	you're looking
+0.0609407197	i've ever had
+0.0609182284	my desktop
+0.0608809801	of the case
+0.0608568622	the matte
+0.0608525439	very easily
+0.0608499031	that comes
+0.0608457339	the hdmi
+0.0607664287	i regret
+0.0607641242	great value for the
+0.0607296081	a good deal
+0.0607031527	over again
+0.0607011539	away from
+0.0606647823	to check
+0.0606450766	bit of a
+0.0606325236	it up and
+0.0606154498	and the battery lasts
+0.0605254956	has been great
+0.0605149431	and overall
+0.0604414385	an update
+0.0604228544	recommend this for
+0.0604107509	the first few
+0.0603986972	i can run
+0.0603359221	didn't work
+0.0603092317	years now
+0.0602640851	setting it
+0.0601836693	i called
+0.0601730422	is extremely
+0.0601325236	on time and
+0.0601325236	and now i
+0.0601211825	just one
+0.0601174071	can also
+0.0600845307	the only problem
+0.0600673862	but really
+0.0600461674	laptop was
+0.0599916204	space for
+0.0599825236	in the last
+0.0599676534	an easy
+0.0599639503	is really nice
+0.0599604571	very high
+0.0599595722	the same problem
+0.0599295448	is my second
+0.0599147609	know what
+0.0599106423	to surf
+0.0599099923	and shuts
+0.0598563317	thing about
+0.0598265265	i spent
+0.0598221785	hit the
+0.0597891271	it starts
+0.0597359663	to complain
+0.0596450766	complaint is the
+0.0596325236	to keep it
+0.0596104770	about this laptop
+0.0596091145	when i have
+0.0595692980	a gamer
+0.0595228091	to get used
+0.0594658570	and had to
+0.0594312692	thanks to
+0.0593946948	a regular
+0.0593522407	to write
+0.0593429796	and i use
+0.0593262192	i've ever
+0.0593129414	about a month
+0.0592721423	onto the
+0.0592655247	but when i
+0.0592647172	is a great laptop
+0.0592008934	i paid
+0.0591795890	what i need it for
+0.0591021917	even that
+0.0590679892	the fact
+0.0590658570	is the only
+0.0590658570	want it to
+0.0590658570	get it to
+0.0590109946	some of the
+0.0590059061	problems with
+0.0589427975	and does not
+0.0588905352	know how
+0.0588676565	stick of
+0.0587557938	the camera
+0.0586664627	the bill
+0.0586631989	me in
+0.0586365775	was completely
+0.0586006099	sending it
+0.0585967681	than that
+0.0585905663	i read
+0.0585824615	haven't had
+0.0585655248	i needed
+0.0585385268	and it works great
+0.0585189465	going back
+0.0585028423	for such
+0.0584658570	and i do
+0.0584532826	i spend
+0.0584458800	gave it
+0.0583917601	it back and
+0.0583497823	i noticed
+0.0583321383	how to
+0.0583021328	good price
+0.0582457944	i haven't
+0.0581338949	bought it
+0.0581129704	except the
+0.0580658570	i like to
+0.0580599619	not working
+0.0580396090	just a few
+0.0579779498	is very nice
+0.0579658570	it back to
+0.0579352963	the worst
+0.0578757811	instead of the
+0.0578622804	the aluminum
+0.0577942806	really slow
+0.0577790862	i did
+0.0577561486	type on
+0.0577420463	pleased with the
+0.0577346179	cannot be
+0.0576563881	was a great
+0.0576325236	to make the
+0.0576325236	it's not a
+0.0576174247	i'm sure
+0.0575989465	that's what
+0.0575730547	has a great
+0.0575411030	bought another
+0.0575283994	being able to
+0.0574836839	added a
+0.0574784099	issue with the
+0.0574756244	help me
+0.0574661228	the keyboard is
+0.0574658570	i put it
+0.0574397226	don't think
+0.0574218539	there isn't
+0.0573830061	all chromebooks
+0.0573549769	only a few
+0.0573272132	great computer
+0.0572538697	after a few
+0.0572529425	thing is
+0.0572061712	near the
+0.0571549145	school and
+0.0571464961	just wanted
+0.0570866159	i decided
+0.0570658570	i use my
+0.0570418629	cost of
+0.0569891128	the time to
+0.0569891128	to have the
+0.0569869005	the past
+0.0569672282	quality is
+0.0569658570	it to the
+0.0569658570	a computer for
+0.0569599885	this is a great laptop
+0.0569042428	to connect
+0.0568436832	it for about
+0.0567564002	need something
+0.0567027276	a normal
+0.0566967869	no way
+0.0566567498	the overall
+0.0566331987	on this machine
+0.0566061600	it freezes
+0.0565461674	light and
+0.0565048467	have to worry about
+0.0564804391	i was able to
+0.0564676934	not a laptop
+0.0564658570	and it will
+0.0564658570	and for the
+0.0564658570	it's not the
+0.0564319891	not a huge
+0.0563917601	it and i
+0.0563056019	the 1080p
+0.0562469142	so i bought
+0.0561911396	came out
+0.0561771240	fine for
+0.0561525035	the day i
+0.0561325236	it in a
+0.0561286756	i will update
+0.0560658570	is not good
+0.0559599885	it's a great
+0.0559068722	movies on
+0.0558955161	have gotten
+0.0558867617	to pay
+0.0558539602	don't see
+0.0557863437	make this
+0.0557685936	a macbook
+0.0557101217	was a bit
+0.0556721527	once in a
+0.0556513102	surf the
+0.0556450766	purchased this for
+0.0556325236	much of a
+0.0556325236	is not a
+0.0556085516	get around
+0.0555830338	i expected
+0.0554858368	it and the
+0.0554658570	it up to
+0.0554658570	it to my
+0.0554569843	the hinge
+0.0554315623	emails and
+0.0553725728	things that
+0.0553617241	don't know
+0.0553513833	which is a
+0.0553224461	it for the
+0.0553151610	reason i
+0.0552958278	that it was
+0.0552540680	a tablet
+0.0552391128	and now it
+0.0552094467	i really don't
+0.0551959472	here and
+0.0551874402	being said
+0.0551506099	complaint is
+0.0550584268	for what it
+0.0550437904	its fast
+0.0550404009	making it
+0.0550315623	compact and
+0.0550203061	to browse
+0.0549776454	none of
+0.0549373904	of the chromebook
+0.0549285992	which is great
+0.0549269257	weight and
+0.0549199412	it is light
+0.0548655247	so i was
+0.0548582419	the case
+0.0548520147	for gaming
+0.0548366795	laptop itself
+0.0548280017	10 year old
+0.0548150928	it's all
+0.0547687904	was extremely
+0.0547560407	this seems
+0.0547239399	still under
+0.0546799581	loved this
+0.0546594641	and it does
+0.0546417601	the way to
+0.0546235909	to complete
+0.0545743752	i was going
+0.0545123957	i'd be
+0.0544996824	if you are
+0.0544866077	to watch
+0.0544658570	the time i
+0.0544658570	of all the
+0.0544547124	to boot
+0.0544408570	one of my
+0.0543703125	the following
+0.0543596682	can take
+0.0543158570	got it for
+0.0542914095	it's worth
+0.0542733051	have yet to
+0.0542449323	end of the
+0.0542291819	for my husband
+0.0541688299	not worth
+0.0541325236	that it doesn't
+0.0541173438	one of the best
+0.0540480028	of some
+0.0540439561	it feels
+0.0540052528	i've never
+0.0539905247	just a little
+0.0539712114	you don't have
+0.0539658570	it in my
+0.0538373676	to figure out how
+0.0538211687	every other
+0.0537759226	it is fast
+0.0537684135	the toshiba chromebook 2
+0.0537678216	everything i want
+0.0537461674	love this
+0.0537194792	a great little laptop
+0.0537103863	what you're
+0.0536594641	and this one
+0.0536038610	games at
+0.0535791611	this computer to
+0.0535724461	and i really
+0.0535680785	a defective
+0.0535343232	disappointed in
+0.0535046866	programs that
+0.0533377166	at all
+0.0532958278	and when i
+0.0532883467	i saw
+0.0532476468	for a month
+0.0531349885	a ton of
+0.0531325236	is just a
+0.0531247401	won't work
+0.0531017230	chromebook is
+0.0530854964	a little
+0.0530373405	with this purchase
+0.0530097568	its price
+0.0529935924	replaced it
+0.0529927975	and i didn't
+0.0529783708	option for
+0.0529315623	freeze and
+0.0528944708	i think
+0.0528408570	only had it
+0.0528073642	i honestly
+0.0528056019	to game
+0.0528043490	under $
+0.0528017871	other than that
+0.0527882478	recommend it
+0.0526730028	use as
+0.0525754315	the same time
+0.0525658570	this was my
+0.0525413387	you must
+0.0525317890	outside of
+0.0525227673	will never
+0.0524824037	if you want
+0.0524814136	way better
+0.0524408570	has a good
+0.0524264118	to change
+0.0523993692	after only a
+0.0523385600	the best laptop
+0.0523216005	a real
+0.0522012839	got this for
+0.0521693943	i opened
+0.0521471720	to spend
+0.0520583366	ever used
+0.0519948981	the same
+0.0519865404	is one of
+0.0519640042	she can
+0.0519291166	you cant
+0.0518913447	to buy
+0.0518774198	allows me
+0.0517761164	would highly recommend this
+0.0517411687	will probably
+0.0517358368	was in the
+0.0517257811	it is also
+0.0517255689	is very light
+0.0516916495	what you
+0.0516316928	will need
+0.0515967681	how this
+0.0515918629	8gb of
+0.0515671545	great for my
+0.0515658570	with the computer
+0.0515619695	review on
+0.0515072660	we got
+0.0515072330	to install
+0.0514997401	go back
+0.0514858368	i like this
+0.0514611125	in love with
+0.0514578781	freezes and
+0.0514156268	useful for
+0.0513224461	it and it
+0.0513224461	it but i
+0.0513158570	but it will
+0.0512958278	this computer and
+0.0512958278	to use the
+0.0512257811	it is an
+0.0512216228	they are
+0.0512084602	still getting
+0.0511486458	of a laptop
+0.0511358198	on the go
+0.0511325236	which was a
+0.0510841145	i think that
+0.0510247401	found out
+0.0509907092	had problems
+0.0509571861	think it's
+0.0508781784	and last
+0.0508257580	others have
+0.0508090696	two of these
+0.0507751962	brightness is
+0.0507561486	slot for
+0.0506278097	the track pad is
+0.0505992244	screen has
+0.0505404009	games on
+0.0505404009	programs on
+0.0505304254	didn't need
+0.0505284536	about getting
+0.0505246995	don't like
+0.0504882671	it arrived
+0.0504858368	computer and i
+0.0504582736	right side
+0.0504115990	chromebook for my
+0.0503234165	i take
+0.0503224461	would like to
+0.0502757811	if i have
+0.0502234165	since this
+0.0501394819	returning this
+0.0501291611	to get to
+0.0501085516	getting an
+0.0500988581	but there is
+0.0500988581	to do that
+0.0500891128	not a computer
+0.0500639868	im not
+0.0500624944	as i have
+0.0500506099	photoshop and
+0.0500409686	to save
+0.0499935924	takes a
+0.0499891128	to give it
+0.0499745075	good quality
+0.0499624944	that this computer
+0.0499533256	this lap
+0.0499509333	very long
+0.0498040571	this is great
+0.0498027100	screen looks
+0.0498001777	for me
+0.0497846173	for over a
+0.0497702250	with more
+0.0497606296	because i have
+0.0497002183	when it comes
+0.0496982290	today and
+0.0496942669	in the middle of
+0.0496841145	it is now
+0.0495967681	to most
+0.0495404009	working on
+0.0495346173	is for you
+0.0494292342	is wonderful
+0.0493398074	the wrong
+0.0493185508	love that
+0.0493133658	is pretty
+0.0492904437	looking at
+0.0492813411	something better
+0.0492158570	you have a
+0.0492158570	a good computer
+0.0492039817	good at
+0.0492012839	so that i
+0.0491525035	now and i
+0.0491524602	a long time
+0.0490850949	ask for
+0.0490818927	across the
+0.0490740309	i upgraded
+0.0490684135	for a college student
+0.0490404009	writing this
+0.0490375514	this computer is
+0.0490215811	worth the
+0.0490105380	of the
+0.0489969628	you may
+0.0489444625	light use
+0.0489351873	see what
+0.0489092913	appears to
+0.0488841145	i think this
+0.0488825236	don't have a
+0.0488608368	it in for
+0.0488228153	end of
+0.0488158570	this little computer
+0.0488158570	this for about
+0.0487458278	and this is
+0.0487358368	a computer to
+0.0487280777	to cause
+0.0486998065	i was able
+0.0486450375	fan of
+0.0485988581	i would be
+0.0485801263	all day
+0.0485724461	is also a
+0.0485461674	machine is
+0.0485402002	does everything i need
+0.0485063361	but only
+0.0483969611	life is
+0.0483825236	use this for
+0.0482737139	you are
+0.0482237139	very good
+0.0482008326	and does everything
+0.0481988581	so this is
+0.0481735917	to be
+0.0481656339	what i can
+0.0480966468	may have
+0.0480671545	laptop is a
+0.0480626704	and yet
+0.0480488581	that it has
+0.0480468686	am still
+0.0479935924	ago and
+0.0479321914	of this computer
+0.0479269257	bright and
+0.0478746156	but if you
+0.0478743692	just the right
+0.0478618515	must have
+0.0478580072	it could be
+0.0477721370	get another
+0.0477590521	the screen is
+0.0477438714	on the
+0.0477344210	good product
+0.0476988581	computer for a
+0.0476958424	she has
+0.0476943085	i don't know if
+0.0475798980	i have
+0.0475655247	i am so
+0.0475562756	had to get
+0.0474592816	is awesome
+0.0474414095	it's fine
+0.0473825236	need it to
+0.0473744277	is horrible
+0.0473347126	a couple of
+0.0472762856	are just
+0.0472752183	didn't like
+0.0472624500	it worked
+0.0472525035	have not had
+0.0472018181	saying that
+0.0471970758	i enjoy
+0.0471942669	when it comes to
+0.0471708381	say it's
+0.0471624598	what i want
+0.0469624944	would be a
+0.0469624944	this computer for
+0.0469233690	phone with
+0.0468825660	old laptop
+0.0468609473	good reviews
+0.0467969611	recommend this
+0.0467890831	other than
+0.0467497401	here are
+0.0466851873	will keep
+0.0465462180	are getting
+0.0465133034	as you can
+0.0464269257	remove the
+0.0463605474	i have always
+0.0463235643	the front
+0.0463181467	things like
+0.0463148520	a decent
+0.0463111707	does what i
+0.0462926885	bit of
+0.0462843152	use it
+0.0462547605	computer i have
+0.0461727697	being used
+0.0460791611	i had it
+0.0458922045	better then
+0.0458405663	to fix
+0.0457903655	don't really
+0.0457070675	trackpad is
+0.0456974461	using this for
+0.0456974461	had this for
+0.0456799562	could be
+0.0456648115	have been
+0.0456493370	and look
+0.0456187878	it takes
+0.0456174256	when i first got
+0.0456151610	resolution is
+0.0455358442	didn't even
+0.0454815187	a big
+0.0454738996	the color
+0.0453852895	i have seen
+0.0453536295	can't even
+0.0452872693	isn't the
+0.0452257811	it is really
+0.0451982290	facebook and
+0.0450983550	second time
+0.0450531309	basically a
+0.0449912418	both the
+0.0449707945	do not
+0.0449175113	how much
+0.0449105380	for a
+0.0448683468	one year
+0.0448377844	as well
+0.0448261308	and use it
+0.0448202826	out of
+0.0447174071	both of
+0.0446735917	i can
+0.0446286362	color is
+0.0446105474	bottom of the
+0.0445592483	looks like
+0.0445407092	very cheap
+0.0445404009	performance is
+0.0445095556	didn't want
+0.0444687744	the battery life is
+0.0444514208	very well
+0.0444468210	love my
+0.0444104574	purchased this
+0.0443279188	from being
+0.0442945651	but i would
+0.0441257811	i am now
+0.0439661228	i have had
+0.0439315623	sleek and
+0.0439315623	hope it
+0.0439269257	durable and
+0.0438666793	is amazing
+0.0437590521	i love it
+0.0437356691	getting used
+0.0437355137	gaming or
+0.0437180217	won't be
+0.0436985389	working after
+0.0436418849	have come
+0.0435939630	it was still
+0.0435766426	of ram
+0.0435392394	problem with
+0.0435190623	than other
+0.0434505161	by far
+0.0434396555	won't even
+0.0434349075	on an
+0.0433605824	on high
+0.0432844996	good value
+0.0432819492	can't get
+0.0432277137	wish i could
+0.0431943807	i returned
+0.0431628804	the track
+0.0430811854	new chromebook
+0.0430789393	had nothing
+0.0430789360	needs it
+0.0430580099	in order to
+0.0430518149	went out
+0.0430385474	to type
+0.0429094558	to load
+0.0428746156	but this is
+0.0427446948	i understand
+0.0427297398	does not
+0.0426969822	pad is
+0.0426818277	ordered this
+0.0426676000	on youtube
+0.0426550033	those are
+0.0426507811	i am really
+0.0425404009	display is
+0.0424397933	use it mainly
+0.0424213835	for someone who
+0.0424186051	can see
+0.0424159327	i had this
+0.0423304807	this is a
+0.0422698123	be able
+0.0422296813	so good
+0.0421927975	and i think
+0.0421887724	most of the time
+0.0421316428	wasn't a
+0.0420870087	been able to
+0.0419548106	to send it back
+0.0419350563	laptop has
+0.0419269257	send it
+0.0419174478	then this is
+0.0418787199	i would
+0.0418575993	is more than
+0.0418352933	nothing but
+0.0417590521	this laptop is
+0.0417262246	me as
+0.0417128380	so happy
+0.0416453865	which is
+0.0416127673	give me
+0.0415674668	can live with
+0.0414404009	sound is
+0.0413940864	soon as
+0.0413855072	i tried
+0.0413625319	as well as
+0.0413601337	lasts for
+0.0413493015	get what
+0.0412965187	is a
+0.0412619695	works as
+0.0411374611	will not
+0.0411151610	hours on
+0.0410935924	carry it
+0.0410772340	because of the
+0.0410619695	space on
+0.0410344996	you might
+0.0410021328	new laptop
+0.0409907092	very small
+0.0409787199	i could
+0.0408342471	is exactly what
+0.0407914385	my experience
+0.0407388452	replace my
+0.0405736077	has really
+0.0405027190	for homework
+0.0404658407	having it
+0.0404441354	out how
+0.0403143842	i didn't
+0.0402396501	out there
+0.0401897335	looks good
+0.0401622136	much better than
+0.0401259896	will say
+0.0401255379	will see
+0.0400826225	to go
+0.0400772340	i would have
+0.0400764002	and found
+0.0400347822	you get what you
+0.0399916204	issue with
+0.0399784686	for kids
+0.0399658993	want to
+0.0399588086	wants to
+0.0398512246	use at
+0.0398304391	i have to say
+0.0398181787	happy with
+0.0398126859	just what i
+0.0398017356	this particular
+0.0396997974	very pleased with
+0.0396872726	sure if
+0.0396553770	just right
+0.0396338212	laptop for about
+0.0395266420	over $
+0.0394987354	can't beat it
+0.0394927975	and i had to
+0.0394861914	every time you
+0.0394680500	it to be
+0.0394295682	side of
+0.0393769633	i've had this laptop for
+0.0392925892	did not
+0.0392851394	what i was
+0.0392433093	to return
+0.0392388587	right out
+0.0392291611	so it was
+0.0391997279	have to
+0.0391986202	you should
+0.0391909327	better than the
+0.0391805471	the speed of
+0.0391711006	sure what
+0.0391486625	use it for
+0.0391341137	little more
+0.0391208278	as well as the
+0.0391017108	had this computer for
+0.0390605380	i had
+0.0390399850	any way
+0.0390038429	might have
+0.0389938714	for my
+0.0389668443	it is
+0.0389668443	this is
+0.0389624944	but it is a
+0.0389620087	less than a year
+0.0389070758	the best
+0.0389056762	it so much
+0.0388948675	does what i need
+0.0388787199	there is
+0.0388128380	this notebook
+0.0387290154	windows or
+0.0387174071	not having
+0.0386570404	doesn't work
+0.0386418849	year now
+0.0385924478	had the same
+0.0385602590	beautiful and
+0.0384841659	it right now
+0.0384668443	i was
+0.0384333569	does everything i
+0.0383832481	get something
+0.0383426565	disappointed with
+0.0383356780	been using this
+0.0383304807	i had to
+0.0383181787	pay for
+0.0382619695	chromebook has
+0.0382437324	unit for
+0.0382161228	i don't like
+0.0381423655	when i am
+0.0380605380	this one
+0.0380107783	since then
+0.0379825993	does everything i need it
+0.0379433086	couldn't be
+0.0379094405	especially if
+0.0379061006	it's almost
+0.0378538629	if you can
+0.0377969822	wanted a
+0.0377958278	if you are a
+0.0376926601	would have been
+0.0376178247	do anything
+0.0375772340	i purchased this
+0.0375162739	able to get
+0.0375012228	especially when
+0.0374488581	for a new
+0.0374405409	reviews on
+0.0374213953	i will never
+0.0374124944	and would not
+0.0373825592	i'm not
+0.0373310842	doesn't have the
+0.0373237070	these are
+0.0373038929	any other
+0.0372924478	what it is
+0.0371486625	i use it
+0.0370795682	am really
+0.0370772340	one of the
+0.0370553770	top of
+0.0369587565	of storage
+0.0369561959	come back on
+0.0369488581	for a good
+0.0367590521	i bought it
+0.0367374611	using it
+0.0367261891	has been a
+0.0367254800	a college student and
+0.0367244138	they could
+0.0367150197	and will not
+0.0366575950	for college
+0.0366492660	and there are
+0.0365643231	probably the best
+0.0365639952	the operating system
+0.0365605380	it was
+0.0365321914	for a computer
+0.0364802516	at first
+0.0364321914	i think i
+0.0364274128	the first time
+0.0364017230	price was
+0.0362806762	and will be
+0.0362531309	case with
+0.0361867217	laptop for a
+0.0361776224	if anyone
+0.0361605380	to do
+0.0361582015	and have been
+0.0361149687	than most
+0.0360676319	plug it
+0.0360605380	when i
+0.0360605380	to get
+0.0360491368	at the end of
+0.0360313411	find out
+0.0360065221	the bottom
+0.0359962886	it hasn't
+0.0359739858	the touch pad is
+0.0359172798	right out of
+0.0358862180	would say
+0.0358854547	if you're not
+0.0358746156	to be a
+0.0358716354	don't want
+0.0358536949	had this laptop for
+0.0358248126	took me
+0.0357941211	not sure if
+0.0357583914	at once
+0.0357461006	almost all
+0.0357155247	i have an
+0.0356325660	i can't
+0.0356197976	thought that
+0.0355701202	anything other
+0.0355449856	wish i had
+0.0355437197	would give
+0.0355209943	the size of
+0.0354935813	when i try to
+0.0354858447	have seen
+0.0354791865	first time
+0.0354562751	for those who
+0.0354017356	i'd like
+0.0353254093	i wanted it
+0.0352806762	for me to
+0.0352385655	over a year
+0.0352169894	i'm glad i
+0.0351674166	beat it
+0.0351605380	i got
+0.0351333914	does everything
+0.0351231874	beat the
+0.0351151610	turned it
+0.0351149687	would never
+0.0350911228	this thing is
+0.0350795682	am now
+0.0350723429	it at all
+0.0350142251	months after
+0.0349473429	that i had
+0.0349105673	to get used to
+0.0348742432	when you're
+0.0348488581	that i don't
+0.0347744575	was looking for
+0.0347565685	than a year
+0.0347124944	seems to be a
+0.0346958424	where you
+0.0346140178	so much
+0.0346028423	i own
+0.0345889929	i'm very happy with
+0.0345723429	is so much
+0.0345723429	out of my
+0.0345690101	what i need it to
+0.0345445913	i can live with
+0.0345095639	will work
+0.0344637394	came in
+0.0343280368	don't know if
+0.0343109793	and i don't
+0.0342668849	really can't
+0.0342382520	that i have
+0.0341607945	on the left side
+0.0341271409	but i have
+0.0341140096	and you can
+0.0340605380	to use
+0.0339473429	this one and
+0.0338488581	is one of the
+0.0338403986	i will say
+0.0338151610	option to
+0.0338072934	for him
+0.0337932089	the next day
+0.0337862521	would definitely
+0.0336930305	know how to
+0.0335857877	did not work
+0.0335102701	less than a
+0.0334038598	i couldn't be
+0.0333852175	months of
+0.0333422045	sometimes when
+0.0333183592	not enough
+0.0332965144	would buy it again
+0.0332571054	this is one of
+0.0332439630	was going to
+0.0332289232	she uses it
+0.0331605380	it has
+0.0331587426	i received it
+0.0330518442	seemed to
+0.0329473429	i need it
+0.0329031005	you're looking for
+0.0328939824	no way to
+0.0328821914	with a few
+0.0328796106	it every day
+0.0328783708	buy from
+0.0328761053	what they
+0.0328678918	would recommend it
+0.0328488581	for what i
+0.0327695651	i was in
+0.0327154387	need it to do
+0.0326785109	school or
+0.0326416026	you want
+0.0325488941	with a lot of
+0.0325425892	my old
+0.0324452139	keep up
+0.0324246834	the right side
+0.0324117852	i've had no
+0.0323488581	out of this
+0.0323433301	might not
+0.0323220127	i can say
+0.0322310397	i didn't want
+0.0322189508	to call
+0.0322071914	computer for my
+0.0321542125	at the same
+0.0321290445	a little over
+0.0320812922	tried to get
+0.0320095639	what i'm
+0.0319947444	yourself a
+0.0319279188	after having
+0.0319124944	i've had it
+0.0319124944	it did not
+0.0318557123	i purchased the
+0.0318279188	will make
+0.0317655925	you will need
+0.0317375723	and won't
+0.0317155247	when it was
+0.0316864726	look at
+0.0316332398	comes with
+0.0316029960	people have
+0.0315837065	i got this for
+0.0315501568	the screen is a
+0.0315273324	this chromebook has
+0.0315022874	my own
+0.0314668443	this computer
+0.0313579845	the left side
+0.0313004342	i ended up
+0.0312372540	so far so
+0.0312124944	used to it
+0.0311959370	had this computer
+0.0311758417	be happier with
+0.0311549187	and i was
+0.0311286245	part of
+0.0310707945	it does
+0.0310598720	if you just
+0.0310488581	i was not
+0.0310481393	i have yet to
+0.0310383034	i am using
+0.0310058442	i am very happy with
+0.0309977508	not what i
+0.0309734348	got this for my
+0.0309725220	it is a
+0.0308444722	is exactly what i
+0.0307735101	can say
+0.0307375723	wish the
+0.0307375527	i was looking
+0.0307064651	more than enough
+0.0306894715	that it is
+0.0306655247	have to be
+0.0306443126	and it seems
+0.0306314727	this is my first
+0.0306125319	i don't think
+0.0305896451	is pretty good
+0.0305735500	computer has been
+0.0305715853	it to do
+0.0305644641	i believe
+0.0305488581	it was just
+0.0305193482	been using
+0.0304788988	on the bottom
+0.0304757367	seem to be
+0.0304755412	going to be
+0.0304206696	have been very
+0.0304174910	great for a
+0.0303430452	computer i've ever
+0.0303304807	i do not
+0.0302909327	so i have
+0.0302682409	if this is
+0.0302222138	not a fan of
+0.0300816517	out how to
+0.0300501568	this laptop is a
+0.0299168849	ever had
+0.0299115952	what you pay for
+0.0298621233	so many
+0.0298311896	have not had any
+0.0298260873	right in
+0.0298079490	it is just
+0.0297992576	way to go
+0.0297858193	it seems
+0.0297592810	this is probably
+0.0296927628	if you are looking for
+0.0296927475	and it is
+0.0296838231	this is the best
+0.0296838231	when i tried to
+0.0296615952	not come with
+0.0296140096	to use a
+0.0296033821	one day
+0.0295286032	but that's
+0.0295083914	you cannot
+0.0294994138	i've got
+0.0294648610	be sure
+0.0294594822	going to
+0.0294473429	use it to
+0.0294306201	tried to
+0.0293782619	don't want to
+0.0293699286	get what you pay for
+0.0293571091	good for a
+0.0293227508	that can be
+0.0292651751	been using it
+0.0292474007	don't need
+0.0292461006	get into
+0.0292458278	it all the time
+0.0292235500	more than one
+0.0292234639	looking for something
+0.0291744562	i love this computer
+0.0291693487	and easy to
+0.0291486625	i use it for
+0.0291447331	the ability to
+0.0290859016	i can't get
+0.0290715853	to use it
+0.0290394175	to say that
+0.0290378246	after a year
+0.0290127673	there's not
+0.0289936997	except for
+0.0289624944	and have had
+0.0289473429	to take it
+0.0289385723	a bunch of
+0.0288488581	i would like
+0.0287649030	is kind of
+0.0287538109	can't do
+0.0287439630	of these for
+0.0287420760	i bought it to
+0.0287405409	works like
+0.0287345750	really happy with
+0.0287155247	if it was
+0.0287079490	but i was
+0.0286927681	if you need
+0.0286892371	so easy to
+0.0286821914	this computer was
+0.0286189723	keyboard has
+0.0286140096	more than the
+0.0286033821	never had
+0.0285802322	i don't know
+0.0285654425	of the best
+0.0285591823	could not be
+0.0285071914	to use in
+0.0284839484	that's not
+0.0284776459	and i use it
+0.0284654387	the bottom of the
+0.0284612318	can be a
+0.0284497279	is very
+0.0284263223	doesn't have a
+0.0284257085	from another
+0.0283825592	you will
+0.0283188019	be done
+0.0282436228	i would give
+0.0282361914	to make sure
+0.0282141967	think of
+0.0281818277	browse the
+0.0281140096	and i'm not
+0.0280973762	what it does
+0.0280613998	to type on
+0.0280487720	what i was looking for
+0.0280074702	you will have
+0.0279971265	very fast and
+0.0279473429	it has the
+0.0279266469	have to take
+0.0279170399	was looking for a
+0.0279159327	for a few
+0.0278414773	good enough
+0.0278309981	you are looking for
+0.0278291972	to return the
+0.0278274612	the majority of
+0.0278088745	needs to be
+0.0277983690	star for
+0.0277374611	i don't
+0.0276695651	but i can
+0.0276459943	i needed it for
+0.0276308442	a year now
+0.0276140096	very well and
+0.0276065965	definitely not
+0.0275812922	i would definitely
+0.0275673254	to say
+0.0275473429	to use this
+0.0275346111	didn't want to
+0.0274244246	put in
+0.0274091800	i mean
+0.0273311106	thanks to the
+0.0273304807	it would be
+0.0273155925	is more than enough
+0.0273142116	very satisfied with
+0.0272140096	i have is
+0.0272061106	i didn't like
+0.0272007085	see if
+0.0271786376	need to
+0.0271746834	for under $
+0.0270642116	to figure out
+0.0270518669	another one
+0.0270146255	able to do
+0.0270091145	about a year
+0.0269691211	i'm going to
+0.0269579490	for this computer
+0.0269106296	can use it
+0.0269049187	and it was
+0.0268905925	i'm not sure if
+0.0268873528	have been using
+0.0268519244	a gift for my
+0.0268511793	the build quality is
+0.0268462588	to take
+0.0267988941	i thought i
+0.0267806762	have had a
+0.0267731948	would recommend this
+0.0267563251	everything about
+0.0267171009	i wanted something
+0.0266474907	give you
+0.0266389319	i would never
+0.0266232955	i'm still
+0.0266140096	this is for
+0.0265699665	on here
+0.0265531079	and it has
+0.0264598756	for most people
+0.0264543313	is a very
+0.0264503005	can go
+0.0264477508	at first i
+0.0264473429	to get the
+0.0264340654	came with
+0.0264205196	for less than
+0.0264041570	a new one
+0.0263825993	have had no
+0.0263408035	it does what
+0.0262321091	if it is
+0.0261874611	i need
+0.0261075993	you want a
+0.0260994138	about how
+0.0260715853	and i can't
+0.0260708237	if i could
+0.0260692349	i would say
+0.0259776459	a year and
+0.0259645229	i am still
+0.0259170399	on the bottom of
+0.0259157628	i wish
+0.0258591145	want to use
+0.0258461006	he has
+0.0258102731	so far i am
+0.0257909327	i was so
+0.0257655247	for a year
+0.0257567541	back up
+0.0256786376	a new
+0.0256752052	if you are looking
+0.0256327895	i decided to
+0.0256265303	what you are
+0.0256140096	i had the
+0.0256058359	don't need to
+0.0255973762	i have found
+0.0255757811	get a new
+0.0255433842	even after
+0.0254945041	value for the
+0.0253938338	i have tried
+0.0253599686	it was very
+0.0253062507	will not be
+0.0252857945	for everyday use
+0.0252721514	if you don't
+0.0252255856	if you want to
+0.0252251174	seems like
+0.0252105249	doesn't get
+0.0251618196	day one
+0.0249592810	top of the
+0.0249488581	one for my
+0.0249461481	some getting used to
+0.0249296677	over time
+0.0249285312	the backlit keyboard is
+0.0249168234	this laptop for
+0.0249100052	everything i need it to
+0.0249077491	at the bottom
+0.0249065908	even better
+0.0249029188	made me
+0.0248662046	everything i need
+0.0248561382	and i have
+0.0248479173	the way to go
+0.0248333569	i don't want
+0.0248146077	the laptop is
+0.0247937324	replacement for
+0.0247909327	in a few
+0.0247655247	do not have
+0.0247439006	looking for a
+0.0247405409	bought an
+0.0247251174	can't really
+0.0246388180	trying to get
+0.0245920982	able to use
+0.0245706861	if you're looking for
+0.0245644641	seem to
+0.0245509476	need to get
+0.0244843345	we are
+0.0244572163	you can get
+0.0242670399	what i use
+0.0242155247	so i don't
+0.0242142005	don't even
+0.0241926143	how to use
+0.0241486625	all of the
+0.0241422710	know if
+0.0240993894	the laptop itself
+0.0240848965	some other
+0.0240458278	to have to
+0.0240320594	don't expect to
+0.0240131549	not have to
+0.0240092810	side of the
+0.0239713133	to start up
+0.0239343152	what i
+0.0239181554	get used to
+0.0239124944	is going to
+0.0238362285	at best
+0.0238350327	have ever
+0.0237958360	we have
+0.0237909327	to get my
+0.0237909327	is on the
+0.0237850262	i have been
+0.0237844677	or two
+0.0237533821	you won't
+0.0237269244	i purchased this for
+0.0237211006	that's all
+0.0236923855	this is the
+0.0236795922	looking for
+0.0236649851	be sure to
+0.0236395840	what i need
+0.0236327895	the trackpad is
+0.0236257811	you do not
+0.0236242660	it out of
+0.0236140096	and you will
+0.0235501568	and the keyboard is
+0.0235229658	i highly recommend this
+0.0234957651	even more
+0.0234754841	a total of
+0.0234372275	my 10 year old
+0.0234362318	this for my
+0.0234257085	who has
+0.0234108595	for someone
+0.0234019757	i have used
+0.0233949215	i'm not sure
+0.0233272340	i've had it for
+0.0232140096	for a little
+0.0232011164	only complaint is
+0.0231990246	don't use it
+0.0231655247	me to do
+0.0231411736	does what
+0.0230348720	that you can
+0.0229999915	i have not had any
+0.0229983184	after using this
+0.0229668443	it is very
+0.0229124944	you get a
+0.0228871808	very happy with my
+0.0228850052	the screen on
+0.0228678918	a fan of
+0.0228472138	i would like to
+0.0228140457	for a couple of
+0.0227909327	it was the
+0.0227618196	after using
+0.0227496517	of ram and
+0.0227495682	bottom of
+0.0227487854	what we
+0.0227439006	i can get
+0.0227188405	seems to
+0.0226580365	the built in
+0.0226486416	is great and
+0.0226430764	would recommend to
+0.0225712712	its been
+0.0225485957	i have ever
+0.0225350052	and i love it
+0.0224894175	so if you are
+0.0224843345	much more
+0.0224808783	even turn on
+0.0224780664	i feel like
+0.0224758351	as it is
+0.0224610126	was able to
+0.0224605249	an old
+0.0224263223	have had this
+0.0223895840	uses it for
+0.0223866962	used to
+0.0223825592	you get
+0.0223504093	have a lot of
+0.0222728048	to get a
+0.0222337065	are looking for a
+0.0222336772	my needs
+0.0222155247	i don't use
+0.0222140096	it on the
+0.0222019146	does everything i need it to
+0.0221757811	have to say
+0.0221757811	because i don't
+0.0221725109	the computer itself
+0.0221486625	i got this
+0.0221140096	to do a
+0.0220794913	i can see
+0.0220654425	it was to
+0.0220654425	that this is
+0.0220654425	this for a
+0.0220491368	i found that
+0.0220488581	i have had no
+0.0220409242	i'm happy with
+0.0220348720	so you can
+0.0220306762	really like it
+0.0220209665	i can't even
+0.0220125199	come with
+0.0220121808	would not recommend this
+0.0219738581	really is a
+0.0219661228	i bought this for my
+0.0219634268	don't buy this
+0.0219193459	i don't even
+0.0217943459	i don't need
+0.0217595357	try to
+0.0217239095	how much i
+0.0216887982	a year
+0.0216560453	to fix it
+0.0216390457	to replace it
+0.0216361160	i'm using
+0.0216327895	the display is
+0.0216307970	a waste of
+0.0216242660	it for my
+0.0215908035	need to do
+0.0215155247	have to use
+0.0214987498	don't have to
+0.0214254841	i chose this
+0.0214128148	i haven't had
+0.0214065908	only way
+0.0214019757	i have never
+0.0213332481	about $
+0.0213294814	i didn't need
+0.0213261277	recommend this computer
+0.0212405247	like this computer
+0.0212140096	it for a
+0.0212140096	it when i
+0.0212092559	can do
+0.0211140096	and this computer
+0.0211140096	to use and
+0.0211140096	and i can
+0.0211140096	and if you
+0.0211106296	what to do
+0.0211004898	the first one
+0.0210775099	it should be
+0.0210663017	do not buy this
+0.0210089674	very easy to use
+0.0209579490	that i can
+0.0209473429	i need it to do
+0.0209473429	for what i need
+0.0209352578	a great little
+0.0209302751	as long as you
+0.0209204615	for my needs
+0.0209183741	a brand new
+0.0208472138	i was going to
+0.0208229173	come with a
+0.0208194001	a pretty good
+0.0207799187	but it does
+0.0207414361	really good
+0.0206890457	i would recommend it
+0.0206876332	you will be
+0.0206655247	have to do
+0.0206372736	you need
+0.0206291611	to try to
+0.0206238581	even use it
+0.0206128148	one of these
+0.0206128148	is by far
+0.0205819194	any issues with
+0.0205670232	it came with
+0.0205651751	comes with a
+0.0205488581	to do so
+0.0205433842	some time
+0.0204842433	to look at
+0.0204128148	my old one
+0.0204106296	right out of the
+0.0204091685	it is so
+0.0204089904	to worry about
+0.0203921147	to see how
+0.0203906948	or anything
+0.0203826354	i thought that
+0.0203619283	to connect to
+0.0203557123	to turn it on
+0.0203353090	it is a good
+0.0203304807	there is a
+0.0203215853	out of it
+0.0202728048	to get it
+0.0202638804	i don't want to
+0.0202140096	and i would
+0.0202060842	but it seems
+0.0201805471	what i use it for
+0.0201749030	but it is
+0.0201573301	i sent it back
+0.0201486625	i did not
+0.0201140096	and there is
+0.0200739095	look at the
+0.0200235084	i've had this
+0.0200076354	the size and
+0.0199769244	a problem with
+0.0199624944	i wish it
+0.0199473429	you need a
+0.0199184004	should have
+0.0198985084	this has been
+0.0198938338	when i first
+0.0198767036	very happy with
+0.0198727591	for her
+0.0198648254	on the computer
+0.0198479173	a little over a
+0.0198460707	at first but
+0.0198215853	it will not
+0.0198038740	is crisp and
+0.0197924090	the quality of the
+0.0197741368	does not have
+0.0197728048	i got the
+0.0197655247	it is a very
+0.0197368534	for a while
+0.0196741368	most of my
+0.0196605673	it doesn't have
+0.0196560453	i bought this computer
+0.0196560453	i returned it
+0.0196246156	it is still
+0.0196155247	if i can
+0.0196051392	would have
+0.0196015387	now i am
+0.0195908035	i have been using
+0.0195871863	better than my
+0.0195488581	with the same
+0.0194122321	if you need to
+0.0193628148	does not work
+0.0193057123	i bought this for
+0.0193055471	i really like
+0.0192719057	there are some
+0.0192508172	a gift for
+0.0192311382	but this one
+0.0192130391	all over
+0.0191719183	this is a very
+0.0191140096	used to the
+0.0191140096	and i had
+0.0190983184	seems like a
+0.0190772340	you need to
+0.0190374944	i try to
+0.0189920760	is perfect for
+0.0189920760	a laptop with
+0.0189624944	i've had it for a
+0.0189420760	the chromebook is
+0.0189289280	it comes with
+0.0188805402	if you do
+0.0188662046	to see if
+0.0188215853	that there is
+0.0188102578	is hard to
+0.0188055471	i would not recommend this
+0.0187982962	i love how
+0.0187799187	but i think
+0.0187671564	i don't have
+0.0186923855	it was a
+0.0186876332	it does everything
+0.0186735709	the screen went
+0.0186144175	you will not
+0.0186133034	you can use
+0.0186094142	out of the
+0.0185791611	a really good
+0.0185385393	i have to
+0.0185246156	it was not
+0.0185155247	use this computer
+0.0184474967	in less than
+0.0184326354	to restart it
+0.0184320443	would recommend it to
+0.0184122321	you want to
+0.0184046466	a great value
+0.0183126609	on the bottom of the
+0.0183126609	for what it is
+0.0182589853	part of the
+0.0182429418	the reason i
+0.0181738941	to turn it
+0.0181531048	for the price you
+0.0181486625	of the time
+0.0181316295	the screen looks
+0.0180896451	you pay for
+0.0180871863	might be a
+0.0180739095	it seems like
+0.0180679791	a lot of time
+0.0180602578	i bought this as
+0.0180350052	and the screen is
+0.0180186716	this is not
+0.0179758351	i have not
+0.0179737110	very easy to
+0.0179671508	had no problems with
+0.0179668443	it is not
+0.0179559550	i think it's
+0.0179465853	there is not
+0.0178402166	you can do
+0.0177457778	i got a
+0.0176655247	is a good
+0.0176580365	and he loves it
+0.0176395840	i am able to
+0.0176155247	i was very
+0.0176094142	but it was
+0.0175488581	i got my
+0.0175488581	so i could
+0.0174842433	every time i
+0.0174326354	a replacement for
+0.0174126609	i sent it
+0.0174091685	is a little
+0.0173840895	i want it to
+0.0173557123	to buy it
+0.0173353090	get used to it
+0.0173215853	it can be
+0.0172821914	had to be
+0.0171830572	for what you
+0.0171527582	have had
+0.0171291611	have had it
+0.0171246156	this is a good
+0.0171144536	the middle of
+0.0171004898	i wish i had
+0.0170459221	this chromebook is
+0.0170306762	it for a few
+0.0170286032	not sure
+0.0170027986	the touchpad is
+0.0169793276	will have to
+0.0169164182	well worth the
+0.0169003566	if you want a
+0.0168705654	i should have
+0.0168378635	a bit of
+0.0168378635	is great for
+0.0168207402	most of
+0.0168141692	enough for me
+0.0167925644	it has been
+0.0167850052	the internet and
+0.0167821914	i had no
+0.0167806762	i have not had
+0.0167589853	a little more
+0.0167364136	if you're looking for a
+0.0166733031	do a lot of
+0.0166658451	can get
+0.0166505270	work well
+0.0165902652	and easy to use
+0.0165186716	i need to
+0.0165138804	i was looking for
+0.0164769244	little laptop for
+0.0163683386	to set up and
+0.0163577491	i've been using this
+0.0163353090	i was looking for a
+0.0163215853	i have had it
+0.0161719183	i tried to
+0.0161549187	i will not
+0.0161123653	because it is
+0.0160791611	had it for a
+0.0160651751	is really good
+0.0160235084	could be a
+0.0159742271	the price was
+0.0158854757	a bit more
+0.0158194360	i bought it for my
+0.0157850052	the web and
+0.0157459943	on how to
+0.0157457778	i am not
+0.0156890457	very happy with the
+0.0156741368	if you are looking for a
+0.0156291611	really like the
+0.0156155247	about this computer
+0.0155948828	i have no
+0.0155791611	it does not have
+0.0155488581	to do with
+0.0155350052	this laptop for my
+0.0154624944	a year of
+0.0154174839	is bright and
+0.0153967879	the quality of
+0.0153850052	is fast and
+0.0153353090	does not have a
+0.0153215853	and it has been
+0.0153215853	and i have to
+0.0153215853	this is not the
+0.0153215853	i think it
+0.0153183741	it gets the job done
+0.0152850052	i needed it
+0.0152205406	how fast it
+0.0152171508	the rest of
+0.0151719183	i could not
+0.0151549187	that there is no
+0.0151061382	on this computer
+0.0151061382	it does not
+0.0150993021	to send it
+0.0150493021	it's perfect for
+0.0149901002	if you have
+0.0149864381	the keyboard is a
+0.0149420760	a chromebook is
+0.0149183703	i needed something
+0.0149124944	to use it for
+0.0148230006	to replace my
+0.0148194360	i thought it was
+0.0148140457	my first chromebook and
+0.0147813117	only thing i
+0.0147405163	new one
+0.0147316295	a lot more
+0.0147156413	i got it
+0.0147156413	due to the
+0.0146686423	to go with
+0.0146425018	when i was
+0.0146246156	i am very
+0.0146091505	to surf the
+0.0145993659	would not
+0.0145871863	and they said
+0.0145456986	i am not a
+0.0145186716	so i can
+0.0144872530	when i got
+0.0144208278	don't like the
+0.0144091685	this is my
+0.0143960149	of these
+0.0143918525	so i can't
+0.0143675018	was a little
+0.0143557123	this chromebook for my
+0.0143537365	is very good
+0.0143432123	a great laptop for
+0.0143357378	not able to
+0.0143353090	when i got it
+0.0143353090	this is a really
+0.0143215853	is the best
+0.0142929418	this laptop for about
+0.0142284618	i will be
+0.0142284618	a very good
+0.0142283036	and she loves it
+0.0142142005	only used
+0.0141683703	my only complaint is
+0.0141337426	the keyboard has
+0.0141246156	i can use
+0.0141140940	we bought this
+0.0141087426	the laptop has
+0.0140002441	i can do
+0.0139579490	of the computer
+0.0139183703	an issue with
+0.0139076354	this review on
+0.0138825592	my first
+0.0138759794	this machine is
+0.0137944001	don't buy it
+0.0137929571	to do anything
+0.0137728048	i had a
+0.0137174228	i got this for my
+0.0136390457	very light and
+0.0135456986	to be able to
+0.0133721015	i was getting
+0.0133537365	most of the
+0.0133537365	i want to
+0.0132912823	with this computer
+0.0132777693	i would recommend this
+0.0131912823	since it was
+0.0131890457	a great computer
+0.0131416153	this is an
+0.0130791611	using it for a
+0.0130378508	it boots up
+0.0130298256	to return it
+0.0130246156	this is just
+0.0129723790	to buy a
+0.0129624944	i need it to
+0.0128826354	as a gift for
+0.0128215853	on this one
+0.0128057123	for school and
+0.0127940712	not going to
+0.0127728048	to use for
+0.0127487289	because it was
+0.0126923855	it has a
+0.0126686423	this computer has
+0.0126549187	i'm not a
+0.0125456986	this is not a
+0.0125384795	you plan to
+0.0124420760	the battery is
+0.0124112359	it's fast and
+0.0123671397	doesn't have
+0.0121640178	could not
+0.0121549187	but i don't
+0.0121539197	i could use
+0.0120921481	i wish it had
+0.0120791611	to go to
+0.0120298256	the sound is
+0.0120249138	to set up
+0.0120076354	very happy with it
+0.0120072275	i thought it would
+0.0119804042	it starts up
+0.0119723790	it's great for
+0.0119723790	the case is
+0.0119624944	this computer for my
+0.0119465853	it seems to be
+0.0118215853	with this one
+0.0117728048	that i could
+0.0116912823	any of the
+0.0116738941	i turned it
+0.0116087426	the screen is very
+0.0115456986	not the best
+0.0114882520	i used to
+0.0114882520	but i didn't
+0.0114599621	the laptop was
+0.0114546466	to figure out how to
+0.0114394715	but i can't
+0.0114394715	using it for
+0.0112781982	to deal with
+0.0110758351	i would not
+0.0110076354	the end of
+0.0109713133	no problems with
+0.0108967879	had to return it
+0.0108064338	i need to do
+0.0108057123	i love that
+0.0108057123	i gave it
+0.0108057123	i purchased it
+0.0105282161	has to be
+0.0105153956	if i had
+0.0104882520	to take to
+0.0104882520	it would not
+0.0104882520	i really like the
+0.0104882520	it would have been
+0.0104882520	i have had this
+0.0104882520	so i had to
+0.0104882520	i wish i
+0.0104579490	i did have
+0.0104406330	to get it to
+0.0104394715	this one is
+0.0104326354	had to send it
+0.0103826354	i paid for
+0.0103357378	a new computer
+0.0103057123	i wanted to
+0.0101322275	the feel of
+0.0101213133	for school work
+0.0099723790	i needed a
+0.0098967879	so i decided to
+0.0098759794	i love this
+0.0098759794	a laptop that
+0.0097728048	this would be
+0.0095713133	it turns on
+0.0095213133	the ease of
+0.0095076354	for a long time
+0.0094882520	it doesn't have a
+0.0094882520	if you have a
+0.0094882520	the first time i
+0.0094723790	a problem with the
+0.0093920760	the keyboard is very
+0.0093918525	it seems to
+0.0093247031	to ship it
+0.0093057123	it is great for
+0.0093057123	the fact that it
+0.0093057123	i wanted a
+0.0092588148	just have to
+0.0090713133	no issues with
+0.0090493021	i ordered this
+0.0090493021	not worth it
+0.0089723790	the only thing i
+0.0089723790	not worth the
+0.0089326354	very happy with this
+0.0089235985	i bought it for
+0.0085921481	for the first time
+0.0084882520	i really like it
+0.0084723790	a bit of a
+0.0084406330	if you need a
+0.0079723790	the performance is
+0.0079247599	it is perfect for
+0.0078057123	the size of the
+0.0068557123	it is easy to
+0.0065072275	using this laptop for
+0.0063557123	i recommend this
