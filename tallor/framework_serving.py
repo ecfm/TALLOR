@@ -129,6 +129,8 @@ class IEFramework:
             # ner_acc = ner_results[0].get_metric()
             # ner_prf = ner_results[1].get_metric()
             # ner_prf_b = ner_results[2].get_metric()
+            if it % 100 == 1:
+                torch.cuda.empty_cache()
             del output_dict
         
         # return ner_prf['f'], ner_prf['p'], ner_prf['r']
@@ -164,9 +166,8 @@ class IEFramework:
                 for k, v in data_b.items():
                     data_b[k] = v.cuda()
             
-            output_dict  = model.predict(data_b['sentence'], data_b['mask'], data_b['spans'], data_b['span_mask'])
+            ner_res_list = model.decode(model.predict(data_b['sentence'], data_b['mask'], data_b['spans'], data_b['span_mask']))
             
-            ner_res_list = model.decode(output_dict)
             
             raw_data += raw_data_b
             ner_res += ner_res_list
