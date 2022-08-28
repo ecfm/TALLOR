@@ -68,7 +68,8 @@ class IEFramework:
             self.update_dataset_and_loader(self.training_set, rule_labeled_data)
             self.load_initial_model(model, save_ckpt)
             train_step = train_step + 50
-            train_f1, train_p, train_r = self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
+            # train_f1, train_p, train_r = self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
+            self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
 
             if i==epoch-1: ## Save all results
                 torch.save({'state_dict': model.state_dict()}, save_ckpt)
@@ -122,18 +123,19 @@ class IEFramework:
             optimizer.zero_grad()
 
 
-            ner_results = output_dict['span_metrics']
+            # ner_results = output_dict['span_metrics']
            
-            ner_acc = ner_results[0].get_metric()
-            ner_prf = ner_results[1].get_metric()
-            ner_prf_b = ner_results[2].get_metric()
+            # ner_acc = ner_results[0].get_metric()
+            # ner_prf = ner_results[1].get_metric()
+            # ner_prf_b = ner_results[2].get_metric()
+            del output_dict
         
-        return ner_prf['f'], ner_prf['p'], ner_prf['r']
+        # return ner_prf['f'], ner_prf['p'], ner_prf['r']
 
     def select_and_update_training(self, model, update_threshold):
-
-        model.eval()         
-        new_data_self_training, raw_data = self.self_training(model, update_threshold)
+        with torch.no_grad():
+            model.eval()         
+            new_data_self_training, raw_data = self.self_training(model, update_threshold)
         
         self.Labeler.update_rule_pipeline(new_data_self_training)
 
