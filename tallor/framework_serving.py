@@ -68,6 +68,7 @@ class IEFramework:
             self.update_dataset_and_loader(self.training_set, rule_labeled_data)
             self.load_initial_model(model, save_ckpt)
             train_step = train_step + 50
+            torch.cuda.empty_cache()
             # train_f1, train_p, train_r = self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
             self.train_ner_model(model, train_step, warmup_step, best_ner_f1)
             torch.cuda.empty_cache()
