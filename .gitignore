@@ -8,9 +8,9 @@ results/
 saved_models/
 .DS_Store
 .vscode/
-data/bc5cdr/
+data/
 checkpoint/
-scratch.py
+scratch.*
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
